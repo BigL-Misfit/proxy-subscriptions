@@ -1,0 +1,6677 @@
+proxies:
+- name: '🇺🇸 United States #001'
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: 155.248.209.237
+  skip-cert-verify: false
+  sni: hy2.123266.xyz
+  type: hysteria2
+- name: '🇺🇸 United States #002'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 34.212.146.99
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇺🇸 United States #003'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 34.219.182.57
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇺🇸 United States #004'
+  password: hy2_zxlA_gZ5N1KzZlsyBKW-3sfR
+  port: 55020
+  server: 147.224.251.52
+  skip-cert-verify: true
+  sni: 129.146.243.146.sslip.io
+  type: hysteria2
+- name: '🇺🇸 United States #005'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 54.245.180.117
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇺🇸 United States #006'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 18.190.219.163
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇺🇸 United States #007'
+  password: Hy2@SiLiCon2026!
+  port: 8443
+  server: 43.130.7.3
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria2
+- name: '🇯🇵 Japan #001'
+  password: 6c077487-06af-4fb1-9e46-d485d98f0a31
+  port: 52454
+  server: 45.88.43.116
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+- name: '🇯🇵 Japan #002'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-jp-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-jp-002.fastervpn.world
+  type: hysteria2
+- name: '🇫🇷 France #001'
+  password: 87qety_hERGP8Y9_jqier3gw_nA8Q34_B2
+  port: 8443
+  server: 45.155.103.217
+  skip-cert-verify: false
+  sni: kamil-power-machine.roxa.org
+  type: hysteria2
+- name: '🇳🇱 The Netherlands #001'
+  password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
+  port: 443
+  server: 5.255.102.165
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇩🇪 Germany #001'
+  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
+  port: 4433
+  server: 202.61.205.86
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇩🇪 Germany #002'
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇸🇬 Singapore #001'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.229.110.73
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇸🇬 Singapore #002'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 18.141.232.182
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇸🇬 Singapore #003'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.229.106.122
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  type: hysteria2
+- name: '🇸🇬 Singapore #004'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 47.129.9.33
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  type: hysteria2
+- name: '🇸🇬 Singapore #005'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.255.220.11
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: '🇫🇷 France #002'
+  password: dongtaiwang.com
+  port: 22000
+  server: 62.210.124.146
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  type: hysteria2
+- name: '🇷🇺 Russia #001'
+  password: 8bc63720-5ec8-45b5-b6a6-9a21ffb490e8
+  port: 8443
+  server: fl02.auragg.org
+  skip-cert-verify: true
+  sni: fl02.auragg.org
+  type: hysteria2
+- name: '🇹🇼 Taiwan #001'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https://t.me/oneclickvpnkeys
+  type: hysteria2
+- name: '🇸🇬 Singapore #006'
+  password: b7c9e2f1-4d83-42a1-9e5f-sg2026proxy
+  port: 8443
+  server: 209.74.81.28
+  skip-cert-verify: true
+  sni: 209.74.81.28
+  type: hysteria2
+- name: '🇸🇬 Singapore #007'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: vpn-sg-001.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  type: hysteria2
+- name: '🇦🇹 Austria #001'
+  password: Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2
+  port: 8443
+  server: 185.126.236.152
+  skip-cert-verify: true
+  sni: key-hm-at.1cooldns.com
+  type: hysteria2
+- name: '🇸🇬 Singapore #008'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 47.128.145.209
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  type: hysteria2
+- name: '🇩🇪 Germany #003'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: vpn-de-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
+  type: hysteria2
+- name: '🇷🇴 Romania #001'
+  password: 35415e5e-3666-4454-8c45-903af0fcddf4
+  port: 47257
+  server: 85.120.228.208
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+- name: '🇵🇱 Poland #001'
+  password: 8bc63720-5ec8-45b5-b6a6-9a21ffb490e8
+  port: 443
+  server: pl02.auragg.org
+  skip-cert-verify: true
+  sni: pl02.auragg.org
+  type: hysteria2
+- name: '🇸🇬 Singapore #009'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.213.12.36
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  type: hysteria2
+- name: '🇰🇷 South Korea #001'
+  password: e3a5bb40be52de65
+  port: 2328
+  server: q.baoge.me
+  skip-cert-verify: true
+  sni: apps.apple.com
+  type: hysteria2
+- name: '🇭🇰 Hong Kong #001'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2🇨🇳
+  type: hysteria2
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #008'
+  password: 768b923a-4918-46ad-96e7-9cf5543ddc4c
+  port: 2096
+  server: 107.172.219.230
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #009'
+  password: bQZl7HDxSabr1FurTYQHFU
+  port: 443
+  server: 216.105.168.18
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #010'
+  password: eDfN7SODQceIOmIAbtJJtK
+  port: 443
+  server: 198.98.53.130
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇺🇸 United States #011'
+  password: faBAoD54k87UJG7
+  port: 2375
+  server: 172.245.235.84
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇨🇦 Canada #001'
+  password: 2803361d6c196af8
+  port: 20111
+  server: 50.114.177.235
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #012'
+  password: RSo52SbxW40r
+  port: 8388
+  server: 108.181.57.93
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #013'
+  password: ebEfGowZtV1BEFXZOtgAXi
+  port: 443
+  server: 147.90.234.133
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇨🇦 Canada #002'
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 185.196.61.82
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #014'
+  password: ebEfGowZtV1BEFXZOtgAXi
+  port: 443
+  server: tinkered-pennies-puppies.freesocks.work
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #015'
+  password: shadowsocks
+  port: 443
+  server: 37.19.198.236
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #016'
+  password: shadowsocks
+  port: 443
+  server: 37.19.198.160
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #017'
+  password: shadowsocks
+  port: 443
+  server: 173.244.56.6
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #018'
+  password: shadowsocks
+  port: 443
+  server: 37.19.198.244
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #019'
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.169
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇨🇦 Canada #003'
+  password: shadowsocks
+  port: 443
+  server: 149.22.95.183
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇪🇸 Spain #001'
+  password: ZET59LF6DvCC8KVt
+  port: 9005
+  server: 5.188.181.201
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #020'
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.167
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇬🇧 United Kingdom #001'
+  password: amazonskr05
+  port: 443
+  server: 18.133.180.164
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇬🇧 United Kingdom #002'
+  password: amazonskr05
+  port: 443
+  server: 18.175.139.211
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇬🇧 United Kingdom #003'
+  password: shadowsocks
+  port: 443
+  server: 158.173.24.73
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #004'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.217
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #021'
+  password: zz0dHjDfoaSaZuRFLGH-hNfBALSEJUYD
+  port: 1234
+  server: 68.168.222.210
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇳🇱 The Netherlands #002'
+  password: shadowsocks
+  port: 443
+  server: 158.173.20.208
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #022'
+  password: shadowsocks
+  port: 443
+  server: 37.19.198.243
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #002'
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇹🇼 Taiwan #002'
+  password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+  port: 50099
+  server: 36.224.158.182
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇯🇵 Japan #003'
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.241
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: '🇨🇦 Canada #004'
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 137.184.174.93
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇦🇺 Australia #001'
+  password: TWG7J1KR5KsPaV5qZI+rieueKxxafZSpCH
+  port: 15675
+  server: 45.77.232.213
+  type: ss
+  udp: true
+- cipher: aes-128-cfb
+  name: '🇳🇱 The Netherlands #003'
+  password: shadowsocks
+  port: 443
+  server: 109.201.152.181
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇯🇵 Japan #004'
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.204
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #003'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇩🇪 Germany #004'
+  password: amazonskr05
+  port: 443
+  server: 63.183.207.82
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇬🇧 United Kingdom #005'
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.178
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇬🇧 United Kingdom #006'
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.179
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #007'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.181
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #008'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.164
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇬🇧 United Kingdom #009'
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.181
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #010'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 443
+  server: 82.38.31.32
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇩🇪 Germany #005'
+  password: amazonskr05
+  port: 443
+  server: 18.197.189.148
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇹🇼 Taiwan #003'
+  password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+  port: 50099
+  server: 36.224.162.159
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇬🇧 United Kingdom #011'
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.182
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇴 Norway #001'
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  port: 990
+  server: 185.213.23.63
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇳🇱 The Netherlands #004'
+  password: faBAoD54k87UJG7
+  port: 2375
+  server: 109.104.154.163
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇦🇺 Australia #002'
+  password: Y6R9pAtvxxzmGC
+  port: 5600
+  server: 103.106.231.82
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #012'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.212
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #003'
+  password: diOMBU5IDvJcFqyNPbRjYR
+  port: 10443
+  server: 137.74.119.18
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #013'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.180
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #014'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.2
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #015'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.215
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #016'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.218
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #017'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.206
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #005'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 193.29.139.144
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #018'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.200
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #019'
+  password: zz0dHjDfoaSaZuRFLGH-hNfBALSEJUYD
+  port: 1234
+  server: 194.164.92.198
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #020'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.3
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇹🇼 Taiwan #004'
+  password: b1ae0fce-9340-4f2e-882d-fdb2218e2e2b
+  port: 50099
+  server: r3mrcg00129437x.cybervena.com
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #004'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #005'
+  password: XKFKl2rULjIp74
+  port: 8008
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #006'
+  password: faBAoD54k87UJG7
+  port: 2376
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #021'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.214
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #022'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.190
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇦🇺 Australia #003'
+  password: bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E
+  port: 27116
+  server: 104.156.233.234
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #023'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.211
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #007'
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #008'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #009'
+  password: Y6R9pAtvxxzmGC
+  port: 9090
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #024'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.195
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #025'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.213
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #023'
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.170
+  type: ss
+  udp: true
+- cipher: chacha20-ietf
+  name: '🇭🇰 Hong Kong #002'
+  password: asd123456
+  port: 8388
+  server: 103.149.182.105
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #026'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.204
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #010'
+  password: lGqs95QkFHo2NV
+  port: 5498
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇹🇼 Taiwan #005'
+  password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+  port: 50099
+  server: r3mrcg001286ek2.cybervena.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #027'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.18
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #028'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.191
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #029'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.179
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇩🇪 Germany #006'
+  password: XKFKl2rULjIp74
+  port: 8008
+  server: 185.226.172.8
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #030'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.149
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇭🇰 Hong Kong #003'
+  password: 7e1dd4c55bf85da5
+  port: 10851
+  server: 212.192.15.138
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #031'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.219
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #032'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.193
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇩🇪 Germany #007'
+  password: amazonskr05
+  port: 443
+  server: 18.159.196.187
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #024'
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.168
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #011'
+  password: KixLvKzwjekG00rm
+  port: 8000
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #033'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.47
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇯🇵 Japan #005'
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.240
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #006'
+  password: xyRuC8oOc5jrhMMBQHGexd
+  port: 32140
+  server: 5.253.59.156
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #034'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.185
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #035'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.208
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #012'
+  password: Y6R9pAtvxxzmGC
+  port: 8888
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #036'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.207
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #004'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 185.156.173.206
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #013'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: chacha20-ietf
+  name: '🇭🇰 Hong Kong #004'
+  password: asd123456
+  port: 8388
+  server: 103.141.221.124
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #037'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.34
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #005'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 185.128.25.36
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #007'
+  password: VpKABcOpNNA0l5G2AVOmw8
+  port: 62685
+  server: 213.109.147.242
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇩🇪 Germany #008'
+  password: uROuEqsL8IUMMVb4wDwnGU
+  port: 10443
+  server: 57.129.121.230
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇩🇪 Germany #009'
+  password: amazonskr05
+  port: 443
+  server: 3.122.115.111
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #038'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 443
+  server: 82.38.31.29
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #039'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 195.12.48.126
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇩🇪 Germany #010'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 62.113.237.3
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: '🇬🇧 United Kingdom #040'
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 146.70.61.37
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #008'
+  password: CJmTCCx7Ltud
+  port: 8388
+  server: 108.181.126.122
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #041'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.203
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇩🇪 Germany #011'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 62.113.194.158
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #042'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.9
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇮🇹 Italy #001'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 185.213.20.110
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇨🇦 Canada #005'
+  password: G5p6ww4o67HB
+  port: 8388
+  server: 108.181.118.10
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #009'
+  password: CJmTCCx7Ltud
+  port: 8388
+  server: 108.181.58.239
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #043'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.198
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇰🇷 South Korea #014'
+  password: qwerREWQ@@
+  port: 4652
+  server: 218.237.185.230
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #044'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 188.119.149.27
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇨🇭 Switzerland #001'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 146.70.26.156
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #006'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 195.154.29.29
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '🇺🇸 United States #025'
+  password: shadowsocks
+  port: 443
+  server: 173.244.56.9
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇰🇷 South Korea #015'
+  password: qwerREWQ@@
+  port: 2078
+  server: 27.255.82.134
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇪🇸 Spain #002'
+  password: qItG8SueYQcP
+  port: 8388
+  server: 140.174.184.5
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #045'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.199
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #046'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.46
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇸🇬 Singapore #010'
+  password: a338A9
+  port: 8888
+  server: 56.10.43.137
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #047'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.192
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #048'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.13
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #049'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.182
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇱🇹 Lithuania #001'
+  password: qYEN5HX4JKeVCdEC
+  port: 9039
+  server: 195.238.126.84
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇰🇷 South Korea #016'
+  password: qwerREWQ@@
+  port: 13979
+  server: 221.139.79.57
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇪🇸 Spain #003'
+  password: WSyL4XTwNsdv
+  port: 8388
+  server: 108.181.121.226
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #017'
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: 2022-blake3-aes-256-gcm
+  name: '🇸🇬 Singapore #011'
+  password: fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=
+  port: 27755
+  server: 167.150.100.115
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇧🇪 Belgium #001'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 194.187.251.2
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #050'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.39
+  type: ss
+  udp: true
+- cipher: chacha20-ietf
+  name: '🇭🇰 Hong Kong #005'
+  password: asd123456
+  port: 8388
+  server: 103.141.221.101
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #007'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 62.210.123.100
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #051'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.183
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #010'
+  password: wwzVn2ZnHfqYa6l8EWh3eY
+  port: 443
+  server: switcher-nick-croquet.freesocks.work
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇰🇷 South Korea #018'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 141.164.45.187
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇨🇭 Switzerland #002'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 195.242.213.238
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇷🇺 Russia #002'
+  password: WR5Ho8vVqnDaH49WLh98Nc
+  port: 10792
+  server: 130.49.189.158
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇹🇷 Türkiye #001'
+  password: faBAoD54k87UJG7
+  port: 2376
+  server: 185.123.101.64
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #011'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 193.29.139.204
+  type: ss
+  udp: true
+- cipher: chacha20-ietf
+  name: '🇭🇰 Hong Kong #006'
+  password: asd123456
+  port: 8388
+  server: 103.149.183.113
+  type: ss
+  udp: true
+- cipher: chacha20-ietf
+  name: '🇸🇬 Singapore #012'
+  password: asd123456
+  port: 8388
+  server: 103.36.91.32
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇷🇴 Romania #002'
+  password: QFWzCw2uX9B9i6qAYeFBIE
+  port: 443
+  server: 154.46.31.106
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #052'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.202
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇷🇴 Romania #003'
+  password: QFWzCw2uX9B9i6qAYeFBIE
+  port: 443
+  server: bogging-eyeteeth-fly.freesocks.work
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇸🇬 Singapore #013'
+  password: Y6R9pAtvxxzmGC
+  port: 9090
+  server: 103.106.229.69
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇩🇪 Germany #012'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 213.202.208.199
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇸🇪 Sweden #001'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 185.117.88.9
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #012'
+  password: 9tqhMdIrTkgQ46PvhyAtMH
+  port: 443
+  server: 92.112.126.90
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇷🇺 Russia #003'
+  password: 1a87017d0bf57f34
+  port: 20111
+  server: 195.133.23.27
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇮🇷 Iran #001'
+  password: 7aPU9cCng7FFnYwPF98rLIjDo3ZBzlqs
+  port: 1080
+  server: bot.sobhanpor.ir
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #026'
+  password: G5p6ww4o67HB
+  port: 8388
+  server: 108.181.0.177
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇮🇹 Italy #002'
+  password: 6512030961473f21
+  port: 20129
+  server: 185.198.235.208
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇰🇷 South Korea #019'
+  password: qwerREWQ@@
+  port: 6123
+  server: 211.178.105.134
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #053'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.210
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇵🇱 Poland #002'
+  password: Y6R9pAtvxxzmGC
+  port: 5600
+  server: 92.118.205.211
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇩🇪 Germany #013'
+  password: 1hhrqrokj3ag
+  port: 8388
+  server: 209.46.102.22
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #054'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.216
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇹🇷 Türkiye #002'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 38.180.113.194
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #013'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 193.29.139.151
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #027'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 37.120.139.234
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇮 Finland #001'
+  password: UZQY9hNjVNWwamajrXAf1vt8u63nj0fF
+  port: 8388
+  server: 31.76.80.205
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #055'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.186
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇮🇪 Ireland #001'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 84.247.48.78
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇮🇳 India #001'
+  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
+  port: 28061
+  server: 103.111.114.71
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇮🇳 India #002'
+  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
+  port: 28061
+  server: 103.111.114.80
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇮🇳 India #003'
+  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
+  port: 28061
+  server: 103.111.114.82
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇷🇺 Russia #004'
+  password: b24a80e79cee1d1f
+  port: 20111
+  server: 46.17.40.13
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #056'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.187
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇧🇬 Bulgaria #001'
+  password: lGqs95QkFHo2NV
+  port: 5499
+  server: 38.244.132.14
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇮🇳 India #004'
+  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
+  port: 28061
+  server: 103.111.114.61
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇮🇳 India #005'
+  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
+  port: 28061
+  server: 103.111.114.55
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇿🇦 South Africa #001'
+  password: Xsy8Ox4yOV3xLlpxtjzs3X
+  port: 16233
+  server: 102.133.165.160
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #057'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 443
+  server: 82.38.31.15
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇺🇸 United States #028'
+  password: r_NRe-+WRq2zVqMpCnJtTESlT8WyffHyFy
+  port: 16292
+  server: 38.54.80.160
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇿🇦 South Africa #002'
+  password: aduB9HGxQHjA2SBMRjkHX6
+  port: 443
+  server: 102.37.156.224
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #058'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 443
+  server: 82.38.31.35
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #008'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 194.187.249.218
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #059'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.35
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇬🇧 United Kingdom #060'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 94.156.250.148
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #009'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 185.128.25.44
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇸🇦 Saudi Arabia #001'
+  password: g5MeD6Ft3CWlJId
+  port: 5004
+  server: 156.244.8.155
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇮🇳 India #006'
+  password: EBDRo9THx4CqiFU7h5gfov76oNwzZURAh0ZwbWjBKddtUhvz
+  port: 31348
+  server: 103.120.178.193
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #061'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.205
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇮🇳 India #007'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 172.105.39.124
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #062'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.10
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #063'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.7
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #064'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.17
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #065'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.16
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #066'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.155
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #067'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.176
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #068'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.11
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇩🇪 Germany #014'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 62.113.194.49
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇨🇿 Czechia #001'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 146.70.222.126
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '🇺🇸 United States #029'
+  password: 9992b78c6a1122b3aa364721af799807
+  port: 17525
+  server: 38.65.93.241
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #010'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 194.187.249.220
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇫🇷 France #011'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 217.138.207.106
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇳🇱 The Netherlands #014'
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 193.29.139.235
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #069'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.189
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '🇬🇧 United Kingdom #070'
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.194
+  type: ss
+  udp: true
+- name: '🇺🇸 United States #030'
+  password: eb6fb64d-18c0-44d0-9ee5-f29c29194083
+  port: 443
+  server: jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net
+  skip-cert-verify: true
+  sni: 8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #031'
+  password: kkzh2prsyr2ik47as615
+  port: 57142
+  server: 64.94.95.114
+  skip-cert-verify: true
+  sni: static.rutube.ru
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #032'
+  password: kkzh2prsyr2ik47as615
+  port: 57142
+  server: 64.94.95.115
+  skip-cert-verify: true
+  sni: static.rutube.ru
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #033'
+  password: kkzh2prsyr2ik47as615
+  port: 57142
+  server: 64.94.95.117
+  skip-cert-verify: true
+  sni: static.rutube.ru
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #034'
+  password: CF68213490
+  port: 443
+  server: alert-monster.rooster465.autos
+  skip-cert-verify: true
+  sni: alert-monster.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #035'
+  password: CF68213490
+  port: 443
+  server: balanced-puma.rooster465.autos
+  skip-cert-verify: false
+  sni: balanced-puma.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #036'
+  password: OD90375861
+  port: 443
+  server: nearby-muskrat.rooster465.autos
+  skip-cert-verify: false
+  sni: nearby-muskrat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #037'
+  password: CF68213490
+  port: 443
+  server: polite-coyote.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #038'
+  password: CF68213490
+  port: 443
+  server: tolerant-rattler.rooster465.autos
+  skip-cert-verify: false
+  sni: tolerant-rattler.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #039'
+  password: KV63147582
+  port: 443
+  server: 35.89.158.133
+  skip-cert-verify: false
+  sni: popular-meerkat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #040'
+  password: CF68213490
+  port: 443
+  server: capable-eel.rooster465.autos
+  skip-cert-verify: true
+  sni: capable-eel.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #041'
+  password: CF68213490
+  port: 443
+  server: 44.251.239.102
+  skip-cert-verify: false
+  sni: polite-coyote.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #042'
+  password: KV63147582
+  port: 443
+  server: popular-meerkat.rooster465.autos
+  skip-cert-verify: false
+  sni: popular-meerkat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #043'
+  password: KV63147582
+  port: 443
+  server: winning-manatee.rooster465.autos
+  skip-cert-verify: false
+  sni: winning-manatee.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #044'
+  password: CF68213490
+  port: 443
+  server: fast-bunny.rooster465.autos
+  skip-cert-verify: true
+  sni: fast-bunny.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #045'
+  password: NQ26071394
+  port: 443
+  server: better-silkworm.rooster465.autos
+  skip-cert-verify: true
+  sni: better-silkworm.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #046'
+  password: NQ26071394
+  port: 443
+  server: learning-fawn.rooster465.autos
+  skip-cert-verify: true
+  sni: learning-fawn.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #047'
+  password: NQ26071394
+  port: 443
+  server: engaging-elephant.rooster465.autos
+  skip-cert-verify: true
+  sni: engaging-elephant.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #048'
+  password: NQ26071394
+  port: 443
+  server: sharing-porpoise.rooster465.autos
+  skip-cert-verify: true
+  sni: sharing-porpoise.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #001'
+  password: humanity
+  port: 443
+  server: www.ignitelimit.com
+  skip-cert-verify: true
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #049'
+  password: kkzh2prsyr2ik47as615
+  port: 57142
+  server: 64.94.95.118
+  skip-cert-verify: true
+  sni: 64.94.95.118
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #002'
+  password: CF68213490
+  port: 443
+  server: next-turkey.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #003'
+  password: CF68213490
+  port: 443
+  server: rested-osprey.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #004'
+  password: CF68213490
+  port: 443
+  server: evolving-mollusk.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #005'
+  password: CF68213490
+  port: 443
+  server: star-dodo.rooster465.autos
+  skip-cert-verify: false
+  sni: star-dodo.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #006'
+  password: PI36027154
+  port: 443
+  server: 52.194.192.245
+  skip-cert-verify: false
+  sni: exciting-grizzly.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #007'
+  password: CF68213490
+  port: 443
+  server: 13.231.104.203
+  skip-cert-verify: false
+  sni: real-cardinal.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #008'
+  password: tsuchiya
+  port: 443
+  server: 161.34.39.108
+  skip-cert-verify: false
+  sni: aa.ccmusic.jp
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #006'
+  password: PI36027154
+  port: 443
+  server: exciting-grizzly.rooster465.autos
+  skip-cert-verify: false
+  sni: exciting-grizzly.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #007'
+  password: CF68213490
+  port: 443
+  server: glowing-marmoset.rooster465.autos
+  skip-cert-verify: false
+  sni: glowing-marmoset.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #008'
+  password: CF68213490
+  port: 443
+  server: definite-ladybird.rooster465.autos
+  skip-cert-verify: false
+  sni: definite-ladybird.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #009'
+  password: CF68213490
+  port: 443
+  server: innocent-rattler.rooster465.autos
+  skip-cert-verify: true
+  sni: innocent-rattler.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #010'
+  password: CF68213490
+  port: 443
+  server: funny-hawk.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #011'
+  password: CF68213490
+  port: 443
+  server: informed-stud.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #012'
+  password: CF68213490
+  port: 443
+  server: shining-piranha.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #013'
+  password: CF68213490
+  port: 443
+  server: easy-barnacle.rooster465.autos
+  skip-cert-verify: false
+  sni: easy-barnacle.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #014'
+  password: CF68213490
+  port: 443
+  server: concrete-aardvark.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #015'
+  password: CF68213490
+  port: 443
+  server: wealthy-gobbler.rooster465.autos
+  skip-cert-verify: true
+  sni: wealthy-gobbler.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #009'
+  password: CF68213490
+  port: 443
+  server: 52.198.88.225
+  skip-cert-verify: false
+  sni: in-oriole.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #010'
+  password: CF68213490
+  port: 443
+  server: 52.195.215.200
+  skip-cert-verify: false
+  sni: steady-prawn.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #016'
+  password: CF68213490
+  port: 443
+  server: careful-penguin.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #011'
+  password: CF68213490
+  port: 443
+  server: 52.195.207.214
+  skip-cert-verify: false
+  sni: rested-osprey.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #017'
+  password: CF68213490
+  port: 443
+  server: present-ram.rooster465.autos
+  skip-cert-verify: true
+  sni: present-ram.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #018'
+  password: CF68213490
+  port: 443
+  server: nearby-egret.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #019'
+  password: CF68213490
+  port: 443
+  server: adapting-giraffe.rooster465.autos
+  skip-cert-verify: true
+  sni: adapting-giraffe.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇮🇳 India #008'
+  password: CF68213490
+  port: 443
+  server: in-oriole.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #020'
+  password: CF68213490
+  port: 443
+  server: skilled-lioness.rooster465.autos
+  skip-cert-verify: false
+  sni: skilled-lioness.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #021'
+  password: CF68213490
+  port: 443
+  server: sacred-anemone.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #012'
+  password: CF68213490
+  port: 443
+  server: 35.72.9.75
+  skip-cert-verify: false
+  sni: caring-wallaby.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #022'
+  password: CF68213490
+  port: 443
+  server: eternal-woodcock.rooster465.autos
+  skip-cert-verify: false
+  sni: eternal-woodcock.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #023'
+  password: CF68213490
+  port: 443
+  server: eminent-dogfish.rooster465.autos
+  skip-cert-verify: false
+  sni: eminent-dogfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #024'
+  password: CF68213490
+  port: 443
+  server: flowing-eagle.rooster465.autos
+  skip-cert-verify: false
+  sni: flowing-eagle.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #025'
+  password: CF68213490
+  port: 443
+  server: eternal-perch.rooster465.autos
+  skip-cert-verify: false
+  sni: eternal-perch.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #026'
+  password: CF68213490
+  port: 443
+  server: darling-mongrel.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #013'
+  password: CF68213490
+  port: 443
+  server: 43.207.107.39
+  skip-cert-verify: false
+  sni: live-drake.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #027'
+  password: CF68213490
+  port: 443
+  server: star-cheetah.rooster465.autos
+  skip-cert-verify: true
+  sni: star-cheetah.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #028'
+  password: CF68213490
+  port: 443
+  server: smashing-fawn.rooster465.autos
+  skip-cert-verify: false
+  sni: smashing-fawn.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #029'
+  password: CF68213490
+  port: 443
+  server: settling-humpback.rooster465.autos
+  skip-cert-verify: true
+  sni: settling-humpback.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #030'
+  password: CF68213490
+  port: 443
+  server: gentle-honeybee.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #031'
+  password: CF68213490
+  port: 443
+  server: alert-redfish.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #032'
+  password: CF68213490
+  port: 443
+  server: communal-sunbird.rooster465.autos
+  skip-cert-verify: false
+  sni: communal-sunbird.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #033'
+  password: NQ26071394
+  port: 443
+  server: ace-liger.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #034'
+  password: NQ26071394
+  port: 443
+  server: grand-grub.rooster465.autos
+  skip-cert-verify: false
+  sni: grand-grub.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #035'
+  password: CF68213490
+  port: 443
+  server: welcome-monitor.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #036'
+  password: CF68213490
+  port: 443
+  server: eternal-kingfish.rooster465.autos
+  skip-cert-verify: false
+  sni: eternal-kingfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #037'
+  password: CF68213490
+  port: 443
+  server: noble-tahr.rooster465.autos
+  skip-cert-verify: false
+  sni: noble-tahr.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #038'
+  password: CF68213490
+  port: 443
+  server: alert-fish.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #039'
+  password: CF68213490
+  port: 443
+  server: sincere-crappie.rooster465.autos
+  skip-cert-verify: false
+  sni: sincere-crappie.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #040'
+  password: CF68213490
+  port: 443
+  server: smiling-fowl.rooster465.autos
+  skip-cert-verify: false
+  sni: smiling-fowl.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #041'
+  password: CF68213490
+  port: 443
+  server: equipped-moth.rooster465.autos
+  skip-cert-verify: false
+  sni: equipped-moth.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #042'
+  password: CF68213490
+  port: 443
+  server: sacred-shepherd.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #014'
+  password: CF68213490
+  port: 443
+  server: 54.168.65.98
+  skip-cert-verify: false
+  sni: eternal-woodcock.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #043'
+  password: NQ26071394
+  port: 443
+  server: skilled-polliwog.rooster465.autos
+  skip-cert-verify: false
+  sni: skilled-polliwog.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #044'
+  password: CF68213490
+  port: 443
+  server: immune-mullet.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #045'
+  password: CF68213490
+  port: 443
+  server: thankful-mustang.rooster465.autos
+  skip-cert-verify: false
+  sni: thankful-mustang.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #046'
+  password: CF68213490
+  port: 443
+  server: free-hare.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #015'
+  password: CF68213490
+  port: 443
+  server: 43.207.117.135
+  skip-cert-verify: false
+  sni: eminent-panther.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #047'
+  password: NQ26071394
+  port: 443
+  server: gentle-turtle.rooster465.autos
+  skip-cert-verify: false
+  sni: gentle-turtle.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #016'
+  password: CF68213490
+  port: 443
+  server: 13.112.180.140
+  skip-cert-verify: false
+  sni: settling-humpback.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #048'
+  password: CF68213490
+  port: 443
+  server: musical-manatee.rooster465.autos
+  skip-cert-verify: false
+  sni: musical-manatee.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #017'
+  password: u2sVknrSIFjDojeqAUjgYk89m9szHcMQ
+  port: 54603
+  server: 103.106.228.187
+  skip-cert-verify: true
+  sni: 103.106.228.187
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #049'
+  password: CF68213490
+  port: 443
+  server: fair-werewolf.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #050'
+  password: NQ26071394
+  port: 443
+  server: direct-hawk.rooster465.autos
+  skip-cert-verify: false
+  sni: direct-hawk.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #051'
+  password: CF68213490
+  port: 443
+  server: ultimate-jaguar.rooster465.autos
+  skip-cert-verify: true
+  sni: ultimate-jaguar.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #052'
+  password: CF68213490
+  port: 443
+  server: moved-bluegill.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #053'
+  password: CF68213490
+  port: 443
+  server: upright-rhino.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #054'
+  password: NQ26071394
+  port: 443
+  server: arriving-koala.rooster465.autos
+  skip-cert-verify: false
+  sni: arriving-koala.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #055'
+  password: CF68213490
+  port: 443
+  server: adapting-basilisk.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #056'
+  password: CF68213490
+  port: 443
+  server: summary-firefly.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #057'
+  password: NQ26071394
+  port: 443
+  server: inviting-rabbit.rooster465.autos
+  skip-cert-verify: false
+  sni: inviting-rabbit.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #018'
+  password: CF68213490
+  port: 443
+  server: 18.183.215.94
+  skip-cert-verify: false
+  sni: star-cheetah.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #058'
+  password: CF68213490
+  port: 443
+  server: loyal-molly.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #019'
+  password: CF68213490
+  port: 443
+  server: 13.231.189.62
+  skip-cert-verify: false
+  sni: fair-werewolf.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #059'
+  password: CF68213490
+  port: 443
+  server: caring-wallaby.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #060'
+  password: CF68213490
+  port: 443
+  server: accurate-frog.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #061'
+  password: CF68213490
+  port: 443
+  server: live-drake.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #002'
+  password: NQ26071394
+  port: 443
+  server: correct-starfish.rooster465.autos
+  skip-cert-verify: true
+  sni: correct-starfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #062'
+  password: CF68213490
+  port: 443
+  server: composed-sheep.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #003'
+  password: t1k169n5zmvvwn96r9ft
+  port: 57452
+  server: 146.70.90.197
+  skip-cert-verify: true
+  sni: 146.70.90.197
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #004'
+  password: t1k169n5zmvvwn96r9ft
+  port: 57452
+  server: 146.70.90.195
+  skip-cert-verify: true
+  sni: api-yandex.maps.ru
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #005'
+  password: OD90375861
+  port: 443
+  server: 52.212.156.233
+  skip-cert-verify: false
+  sni: wired-tick.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #063'
+  password: CF68213490
+  port: 443
+  server: eager-platypus.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #064'
+  password: CF68213490
+  port: 443
+  server: steady-prawn.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #006'
+  password: OD90375861
+  port: 443
+  server: fit-calf.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #007'
+  password: t1k169n5zmvvwn96r9ft
+  port: 57452
+  server: 146.70.90.198
+  skip-cert-verify: true
+  sni: 146.70.90.198
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #065'
+  password: CF68213490
+  port: 443
+  server: smooth-hornet.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #066'
+  password: CF68213490
+  port: 443
+  server: united-molly.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #067'
+  password: CF68213490
+  port: 443
+  server: star-moray.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #008'
+  password: NQ26071394
+  port: 443
+  server: tops-marlin.rooster465.autos
+  skip-cert-verify: false
+  sni: tops-marlin.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #009'
+  password: OD90375861
+  port: 443
+  server: 18.202.244.191
+  skip-cert-verify: false
+  sni: fit-calf.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #010'
+  password: NQ26071394
+  port: 443
+  server: fun-labrador.rooster465.autos
+  skip-cert-verify: false
+  sni: fun-labrador.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #011'
+  password: OD90375861
+  port: 443
+  server: wired-tick.rooster465.autos
+  skip-cert-verify: false
+  sni: wired-tick.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #012'
+  password: NQ26071394
+  port: 443
+  server: funky-opossum.rooster465.autos
+  skip-cert-verify: false
+  sni: funky-opossum.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #013'
+  password: NQ26071394
+  port: 443
+  server: thankful-piranha.rooster465.autos
+  skip-cert-verify: false
+  sni: thankful-piranha.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #020'
+  password: tsuchiya
+  port: 443
+  server: aa.ccmusic.jp
+  skip-cert-verify: true
+  sni: aa.ccmusic.jp
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #021'
+  password: CF68213490
+  port: 443
+  server: 43.207.204.233
+  skip-cert-verify: false
+  sni: funny-hawk.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #022'
+  password: CF68213490
+  port: 443
+  server: 54.238.124.150
+  skip-cert-verify: false
+  sni: innocent-rattler.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #023'
+  password: CF68213490
+  port: 443
+  server: 54.248.166.163
+  skip-cert-verify: false
+  sni: sacred-shepherd.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇫🇷 France #012'
+  password: NQ26071394
+  port: 443
+  server: ready-kangaroo.rooster465.autos
+  skip-cert-verify: true
+  sni: ready-kangaroo.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇫🇷 France #013'
+  password: NQ26071394
+  port: 443
+  server: chief-cricket.rooster465.autos
+  skip-cert-verify: true
+  sni: chief-cricket.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #068'
+  password: CF68213490
+  port: 443
+  server: funny-hen.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #024'
+  password: CF68213490
+  port: 443
+  server: 18.176.53.202
+  skip-cert-verify: false
+  sni: concrete-aardvark.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #025'
+  password: CF68213490
+  port: 443
+  server: 3.112.189.201
+  skip-cert-verify: false
+  sni: wealthy-gobbler.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #015'
+  password: NQ26071394
+  port: 443
+  server: 63.178.193.196
+  skip-cert-verify: false
+  sni: quiet-condor.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇳🇱 The Netherlands #015'
+  password: KV63147582
+  port: 443
+  server: 89.39.70.233
+  skip-cert-verify: false
+  sni: game-firefly.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇳🇱 The Netherlands #016'
+  password: NQ26071394
+  port: 443
+  server: thorough-falcon.rooster465.autos
+  skip-cert-verify: false
+  sni: thorough-falcon.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇳🇱 The Netherlands #017'
+  password: KV63147582
+  port: 443
+  server: game-firefly.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #016'
+  password: OD90375861
+  port: 443
+  server: 3.67.171.41
+  skip-cert-verify: false
+  sni: busy-hermit.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇳🇱 The Netherlands #018'
+  password: NQ26071394
+  port: 443
+  server: grateful-bedbug.rooster465.autos
+  skip-cert-verify: false
+  sni: grateful-bedbug.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #017'
+  password: NQ26071394
+  port: 443
+  server: quiet-condor.rooster465.autos
+  skip-cert-verify: false
+  sni: quiet-condor.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇳🇱 The Netherlands #019'
+  password: XG59623478
+  port: 443
+  server: renewed-chigger.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇳🇱 The Netherlands #020'
+  password: XG59623478
+  port: 443
+  server: upward-hedgehog.rooster465.autos
+  skip-cert-verify: true
+  sni: upward-hedgehog.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #018'
+  password: OD90375861
+  port: 443
+  server: busy-hermit.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #019'
+  password: KV63147582
+  port: 443
+  server: 3.76.41.23
+  skip-cert-verify: false
+  sni: evolving-baboon.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #020'
+  password: KV63147582
+  port: 443
+  server: evolving-baboon.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #050'
+  password: CF68213490
+  port: 443
+  server: 54.245.167.246
+  skip-cert-verify: false
+  sni: tolerant-rattler.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #021'
+  password: NQ26071394
+  port: 443
+  server: certain-prawn.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇦🇺 Australia #004'
+  password: OD90375861
+  port: 443
+  server: big-bonefish.rooster465.autos
+  skip-cert-verify: true
+  sni: big-bonefish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇦🇺 Australia #005'
+  password: OD90375861
+  port: 443
+  server: 82.117.225.123
+  skip-cert-verify: false
+  sni: big-bonefish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇳🇱 The Netherlands #021'
+  password: NQ26071394
+  port: 443
+  server: renewed-phoenix.rooster465.autos
+  skip-cert-verify: false
+  sni: renewed-phoenix.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇦🇺 Australia #006'
+  password: XG59623478
+  port: 443
+  server: 82.117.225.216
+  skip-cert-verify: true
+  sni: concise-buck.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇦🇺 Australia #007'
+  password: XG59623478
+  port: 443
+  server: 82.117.225.56
+  skip-cert-verify: false
+  sni: stirring-dane.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇳🇱 The Netherlands #022'
+  password: XG59623478
+  port: 443
+  server: 193.169.239.76
+  skip-cert-verify: false
+  sni: renewed-chigger.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #022'
+  password: XG59623478
+  port: 443
+  server: 18.195.11.206
+  skip-cert-verify: false
+  sni: enabling-asp.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #026'
+  password: CF68213490
+  port: 443
+  server: 3.112.234.3
+  skip-cert-verify: false
+  sni: free-hare.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇦🇺 Australia #008'
+  password: KV63147582
+  port: 443
+  server: 87.121.33.171
+  skip-cert-verify: false
+  sni: selected-bison.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #027'
+  password: CF68213490
+  port: 443
+  server: 18.177.140.248
+  skip-cert-verify: false
+  sni: shining-piranha.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #028'
+  password: CF68213490
+  port: 443
+  server: 43.207.109.243
+  skip-cert-verify: false
+  sni: united-molly.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇦🇺 Australia #009'
+  password: XG59623478
+  port: 443
+  server: concise-buck.rooster465.autos
+  skip-cert-verify: true
+  sni: concise-buck.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇦🇺 Australia #010'
+  password: XG59623478
+  port: 443
+  server: stirring-dane.rooster465.autos
+  skip-cert-verify: false
+  sni: stirring-dane.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #029'
+  password: CF68213490
+  port: 443
+  server: 52.198.124.62
+  skip-cert-verify: false
+  sni: skilled-lioness.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇦🇺 Australia #011'
+  password: OD90375861
+  port: 443
+  server: selected-bison.rooster465.autos
+  skip-cert-verify: false
+  sni: selected-bison.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #020'
+  password: '3632736327'
+  port: 1864
+  server: 43.131.241.175
+  skip-cert-verify: false
+  sni: kr04021338.tmdsb.org
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #023'
+  password: XG59623478
+  port: 443
+  server: enabling-asp.rooster465.autos
+  skip-cert-verify: true
+  sni: enabling-asp.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #024'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.135
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #025'
+  password: KV63147582
+  port: 443
+  server: 63.180.59.60
+  skip-cert-verify: false
+  sni: together-insect.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #026'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.156
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #027'
+  password: CF68213490
+  port: 443
+  server: harmless-lab.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #028'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.151
+  skip-cert-verify: false
+  sni: 185.137.157.151
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #030'
+  password: CF68213490
+  port: 443
+  server: 13.112.164.108
+  skip-cert-verify: false
+  sni: present-ram.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #031'
+  password: OD90375861
+  port: 443
+  server: together-insect.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #029'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.140
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #030'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.142
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #031'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.149
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #069'
+  password: CF68213490
+  port: 443
+  server: allowing-halibut.rooster465.autos
+  skip-cert-verify: false
+  sni: allowing-halibut.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #070'
+  password: NQ26071394
+  port: 443
+  server: devoted-heron.rooster465.autos
+  skip-cert-verify: true
+  sni: devoted-heron.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #032'
+  password: CF68213490
+  port: 443
+  server: 54.65.43.16
+  skip-cert-verify: false
+  sni: composed-sheep.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #032'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.128
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #033'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.138
+  skip-cert-verify: false
+  sni: 185.137.157.138
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #033'
+  password: CF68213490
+  port: 443
+  server: 35.77.91.8
+  skip-cert-verify: false
+  sni: definite-ladybird.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇨🇭 Switzerland #003'
+  password: y3b03zx3tznhyo538p4c
+  port: 53261
+  server: 86.106.84.195
+  skip-cert-verify: true
+  sni: 86.106.84.195
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #034'
+  password: CF68213490
+  port: 443
+  server: 18.181.201.45
+  skip-cert-verify: false
+  sni: sincere-crappie.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #021'
+  password: CF68213490
+  port: 443
+  server: 43.201.146.77
+  skip-cert-verify: false
+  sni: aware-puma.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #022'
+  password: NQ26071394
+  port: 443
+  server: 13.125.78.9
+  skip-cert-verify: false
+  sni: living-hagfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #035'
+  password: CF68213490
+  port: 443
+  server: 52.194.255.244
+  skip-cert-verify: false
+  sni: adapting-giraffe.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #071'
+  password: NQ26071394
+  port: 443
+  server: capable-jay.rooster465.autos
+  skip-cert-verify: true
+  sni: capable-jay.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #036'
+  password: CF68213490
+  port: 443
+  server: 54.178.35.10
+  skip-cert-verify: false
+  sni: equipped-moth.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #037'
+  password: CF68213490
+  port: 443
+  server: 43.207.153.3
+  skip-cert-verify: false
+  sni: eminent-dogfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #072'
+  password: NQ26071394
+  port: 443
+  server: inviting-ferret.rooster465.autos
+  skip-cert-verify: true
+  sni: inviting-ferret.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #073'
+  password: CF68213490
+  port: 443
+  server: awake-satyr.rooster465.autos
+  skip-cert-verify: false
+  sni: awake-satyr.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #034'
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  port: 443
+  server: 185.137.157.145
+  skip-cert-verify: true
+  sni: 185.137.157.145
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #074'
+  password: CF68213490
+  port: 443
+  server: clear-heron.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #075'
+  password: NQ26071394
+  port: 443
+  server: neat-octopus.rooster465.autos
+  skip-cert-verify: true
+  sni: neat-octopus.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #076'
+  password: CF68213490
+  port: 443
+  server: central-jawfish.rooster465.autos
+  skip-cert-verify: true
+  sni: central-jawfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #038'
+  password: CF68213490
+  port: 443
+  server: 52.197.223.110
+  skip-cert-verify: false
+  sni: funny-hen.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #077'
+  password: CF68213490
+  port: 443
+  server: enormous-whippet.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #078'
+  password: CF68213490
+  port: 443
+  server: charming-puma.rooster465.autos
+  skip-cert-verify: false
+  sni: charming-puma.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #079'
+  password: NQ26071394
+  port: 443
+  server: living-hagfish.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #080'
+  password: CF68213490
+  port: 443
+  server: growing-ram.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #081'
+  password: CF68213490
+  port: 443
+  server: diverse-thrush.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #082'
+  password: bpb-trojan
+  port: 443
+  server: vless.herogoing.top
+  skip-cert-verify: false
+  sni: vless.herogoing.top
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #023'
+  password: CF68213490
+  port: 443
+  server: 3.35.214.88
+  skip-cert-verify: false
+  sni: pure-ram.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #083'
+  password: CF68213490
+  port: 443
+  server: aware-puma.rooster465.autos
+  skip-cert-verify: false
+  sni: aware-puma.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #084'
+  password: CF68213490
+  port: 443
+  server: aware-lionfish.rooster465.autos
+  skip-cert-verify: false
+  sni: aware-lionfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #085'
+  password: NQ26071394
+  port: 443
+  server: accurate-cat.rooster465.autos
+  skip-cert-verify: true
+  sni: accurate-cat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #039'
+  password: CF68213490
+  port: 443
+  server: 3.112.231.253
+  skip-cert-verify: false
+  sni: upright-rhino.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #086'
+  password: CF68213490
+  port: 443
+  server: upward-yak.rooster465.autos
+  skip-cert-verify: false
+  sni: upward-yak.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #087'
+  password: CF68213490
+  port: 443
+  server: star-bluejay.rooster465.autos
+  skip-cert-verify: false
+  sni: star-bluejay.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #088'
+  password: CF68213490
+  port: 443
+  server: devoted-zebra.rooster465.autos
+  skip-cert-verify: false
+  sni: devoted-zebra.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #089'
+  password: CF68213490
+  port: 443
+  server: tolerant-stag.rooster465.autos
+  skip-cert-verify: false
+  sni: tolerant-stag.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #090'
+  password: NQ26071394
+  port: 443
+  server: merry-falcon.rooster465.autos
+  skip-cert-verify: false
+  sni: merry-falcon.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #091'
+  password: CF68213490
+  port: 443
+  server: helping-shark.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #092'
+  password: NQ26071394
+  port: 443
+  server: thorough-foxhound.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #093'
+  password: CF68213490
+  port: 443
+  server: together-impala.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #024'
+  password: NQ26071394
+  port: 443
+  server: 52.79.249.115
+  skip-cert-verify: false
+  sni: gentle-platypus.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #094'
+  password: NQ26071394
+  port: 443
+  server: legible-ocelot.rooster465.autos
+  skip-cert-verify: false
+  sni: legible-ocelot.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #095'
+  password: CF68213490
+  port: 443
+  server: gentle-mastiff.rooster465.autos
+  skip-cert-verify: true
+  sni: gentle-mastiff.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #096'
+  password: CF68213490
+  port: 443
+  server: eternal-horse.rooster465.autos
+  skip-cert-verify: false
+  sni: eternal-horse.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #097'
+  password: CF68213490
+  port: 443
+  server: climbing-frog.rooster465.autos
+  skip-cert-verify: false
+  sni: climbing-frog.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #025'
+  password: NQ26071394
+  port: 443
+  server: 43.201.251.27
+  skip-cert-verify: false
+  sni: thorough-foxhound.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #098'
+  password: NQ26071394
+  port: 443
+  server: guided-pelican.rooster465.autos
+  skip-cert-verify: true
+  sni: guided-pelican.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #099'
+  password: NQ26071394
+  port: 443
+  server: mighty-lemming.rooster465.autos
+  skip-cert-verify: true
+  sni: mighty-lemming.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #100'
+  password: NQ26071394
+  port: 443
+  server: genuine-cougar.rooster465.autos
+  skip-cert-verify: false
+  sni: genuine-cougar.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #101'
+  password: NQ26071394
+  port: 443
+  server: sensible-mongrel.rooster465.autos
+  skip-cert-verify: false
+  sni: sensible-mongrel.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #102'
+  password: CF68213490
+  port: 443
+  server: pure-ram.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #103'
+  password: CF68213490
+  port: 443
+  server: smooth-lark.rooster465.autos
+  skip-cert-verify: false
+  sni: smooth-lark.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #014'
+  password: XG59623478
+  port: 443
+  server: 3.249.67.252
+  skip-cert-verify: false
+  sni: singular-lark.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇭🇰 Hong Kong #007'
+  password: BxceQaOe
+  port: 443
+  server: 119.246.1.143
+  skip-cert-verify: true
+  sni: 119.246.1.143
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #104'
+  password: NQ26071394
+  port: 443
+  server: gentle-platypus.rooster465.autos
+  skip-cert-verify: false
+  sni: gentle-platypus.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇮🇪 Ireland #015'
+  password: XG59623478
+  port: 443
+  server: singular-lark.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #105'
+  password: NQ26071394
+  port: 443
+  server: normal-bull.rooster465.autos
+  skip-cert-verify: false
+  sni: normal-bull.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #106'
+  password: CF68213490
+  port: 443
+  server: excited-squirrel.rooster465.autos
+  skip-cert-verify: false
+  sni: excited-squirrel.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #107'
+  password: NQ26071394
+  port: 443
+  server: massive-ocelot.rooster465.autos
+  skip-cert-verify: false
+  sni: massive-ocelot.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #108'
+  password: NQ26071394
+  port: 443
+  server: modest-amoeba.rooster465.autos
+  skip-cert-verify: false
+  sni: modest-amoeba.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #026'
+  password: CF68213490
+  port: 443
+  server: 52.79.117.94
+  skip-cert-verify: false
+  sni: together-impala.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇫🇷 France #014'
+  password: 03mpolj39zyewzufal2r
+  port: 55646
+  server: 51.75.86.196
+  skip-cert-verify: true
+  sni: 51.75.86.196
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #040'
+  password: CF68213490
+  port: 443
+  server: 176.34.18.166
+  skip-cert-verify: false
+  sni: informed-stud.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #041'
+  password: CF68213490
+  port: 443
+  server: 54.238.160.68
+  skip-cert-verify: false
+  sni: darling-mongrel.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #042'
+  password: CF68213490
+  port: 443
+  server: 13.231.188.13
+  skip-cert-verify: false
+  sni: summary-firefly.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #109'
+  password: humanity
+  port: 443
+  server: 104.18.9.83
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #043'
+  password: CF68213490
+  port: 443
+  server: 52.199.23.158
+  skip-cert-verify: false
+  sni: thankful-mustang.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #044'
+  password: CF68213490
+  port: 443
+  server: 54.250.235.241
+  skip-cert-verify: false
+  sni: adapting-basilisk.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #045'
+  password: CF68213490
+  port: 443
+  server: 3.112.212.133
+  skip-cert-verify: false
+  sni: smashing-fawn.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #003'
+  password: KV63147582
+  port: 443
+  server: 62.112.222.212
+  skip-cert-verify: false
+  sni: more-trout.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #046'
+  password: CF68213490
+  port: 443
+  server: 54.199.102.210
+  skip-cert-verify: false
+  sni: nearby-egret.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #110'
+  password: humanity
+  port: 443
+  server: 188.114.96.3
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #004'
+  password: KV63147582
+  port: 443
+  server: legible-possum.rooster465.autos
+  skip-cert-verify: true
+  sni: legible-possum.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇩🇪 Germany #035'
+  password: CF68213490
+  port: 443
+  server: 18.184.4.15
+  skip-cert-verify: true
+  sni: harmless-lab.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #005'
+  password: PI36027154
+  port: 443
+  server: 62.112.222.26
+  skip-cert-verify: false
+  sni: upright-hamster.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇨🇭 Switzerland #004'
+  password: humanity
+  port: 443
+  server: 185.18.250.245
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #047'
+  password: CF68213490
+  port: 443
+  server: 54.178.7.201
+  skip-cert-verify: false
+  sni: immune-mullet.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #111'
+  password: humanity
+  port: 443
+  server: 104.16.72.2
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #006'
+  password: NQ26071394
+  port: 443
+  server: kind-unicorn.rooster465.autos
+  skip-cert-verify: true
+  sni: kind-unicorn.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #007'
+  password: KV63147582
+  port: 443
+  server: more-trout.rooster465.autos
+  skip-cert-verify: true
+  sni: more-trout.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #008'
+  password: PI36027154
+  port: 443
+  server: upright-hamster.rooster465.autos
+  skip-cert-verify: true
+  sni: upright-hamster.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #048'
+  password: CF68213490
+  port: 443
+  server: 18.183.172.225
+  skip-cert-verify: false
+  sni: smooth-hornet.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #049'
+  password: CF68213490
+  port: 443
+  server: 13.230.252.28
+  skip-cert-verify: false
+  sni: sacred-anemone.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #112'
+  password: humanity
+  port: 443
+  server: 188.114.98.0
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #113'
+  password: humanity
+  port: 443
+  server: v3.dabache.top
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #114'
+  password: humanity
+  port: 443
+  server: 104.17.121.71
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #009'
+  password: CF68213490
+  port: 443
+  server: emerging-weevil.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #115'
+  password: humanity
+  port: 443
+  server: 172.64.152.23
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #010'
+  password: OD90375861
+  port: 443
+  server: ideal-robin.rooster465.autos
+  skip-cert-verify: false
+  sni: ideal-robin.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇭🇺 Hungary #001'
+  password: C0ldyfh-vpnjantit.com
+  port: 4443
+  server: hu2.vpnjantit.com
+  skip-cert-verify: false
+  sni: hu2.vpnjantit.com
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #050'
+  password: CF68213490
+  port: 443
+  server: 54.248.6.109
+  skip-cert-verify: false
+  sni: evolving-mollusk.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇨🇭 Switzerland #005'
+  password: humanity
+  port: 443
+  server: 185.18.250.252
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #116'
+  password: humanity
+  port: 443
+  server: 188.114.97.6
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #117'
+  password: humanity
+  port: 443
+  server: www.calmlunch.com
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #051'
+  password: CF68213490
+  port: 443
+  server: 3.112.149.206
+  skip-cert-verify: false
+  sni: star-moray.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #118'
+  password: humanity
+  port: 443
+  server: www.multiplydose.com
+  skip-cert-verify: true
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #011'
+  password: NQ26071394
+  port: 443
+  server: ready-lion.rooster465.autos
+  skip-cert-verify: true
+  sni: ready-lion.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇺🇸 United States #051'
+  password: humanity
+  port: 443
+  server: 165.215.250.14
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #119'
+  password: humanity
+  port: 443
+  server: 104.18.11.110
+  skip-cert-verify: false
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #052'
+  password: CF68213490
+  port: 443
+  server: 35.77.85.144
+  skip-cert-verify: false
+  sni: eager-platypus.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #120'
+  password: humanity
+  port: 443
+  server: 104.18.12.149
+  skip-cert-verify: false
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #121'
+  password: humanity
+  port: 443
+  server: 162.159.17.189
+  skip-cert-verify: true
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #053'
+  password: CF68213490
+  port: 443
+  server: 13.115.229.63
+  skip-cert-verify: false
+  sni: alert-redfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #054'
+  password: CF68213490
+  port: 443
+  server: 54.178.0.218
+  skip-cert-verify: false
+  sni: easy-barnacle.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #027'
+  password: CF68213490
+  port: 443
+  server: 3.38.190.61
+  skip-cert-verify: false
+  sni: excited-squirrel.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #055'
+  password: CF68213490
+  port: 443
+  server: 43.207.210.229
+  skip-cert-verify: false
+  sni: careful-penguin.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇨 Seychelles #001'
+  password: humanity
+  port: 443
+  server: 45.130.125.76
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #122'
+  password: humanity
+  port: 443
+  server: 104.16.174.185
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #056'
+  password: CF68213490
+  port: 443
+  server: 18.183.149.237
+  skip-cert-verify: false
+  sni: loyal-molly.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #028'
+  password: CF68213490
+  port: 443
+  server: 3.39.248.52
+  skip-cert-verify: false
+  sni: helping-shark.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇵🇱 Poland #012'
+  password: KV63147582
+  port: 443
+  server: 62.112.222.46
+  skip-cert-verify: false
+  sni: legible-possum.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #123'
+  password: CF68213490
+  port: 443
+  server: moral-basilisk.rooster465.autos
+  skip-cert-verify: false
+  sni: moral-basilisk.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #029'
+  password: CF68213490
+  port: 443
+  server: 43.201.102.23
+  skip-cert-verify: false
+  sni: upward-yak.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇬🇧 United Kingdom #071'
+  password: humanity
+  port: 443
+  server: 91.193.58.176
+  skip-cert-verify: false
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #124'
+  password: CF68213490
+  port: 443
+  server: grateful-owl.rooster465.autos
+  skip-cert-verify: false
+  sni: grateful-owl.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #125'
+  password: CF68213490
+  port: 443
+  server: modest-bat.rooster465.autos
+  skip-cert-verify: true
+  sni: modest-bat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇬🇧 United Kingdom #072'
+  password: humanity
+  port: 443
+  server: 91.193.58.147
+  skip-cert-verify: false
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #126'
+  password: CF68213490
+  port: 443
+  server: gentle-raptor.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #127'
+  password: NQ26071394
+  port: 443
+  server: usable-dogfish.rooster465.autos
+  skip-cert-verify: true
+  sni: usable-dogfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #128'
+  password: CF68213490
+  port: 443
+  server: brief-warthog.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #014'
+  password: CF68213490
+  port: 443
+  server: 47.128.246.104
+  skip-cert-verify: false
+  sni: bright-cicada.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #015'
+  password: CF68213490
+  port: 443
+  server: 47.129.229.87
+  skip-cert-verify: false
+  sni: brief-warthog.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #030'
+  password: CF68213490
+  port: 443
+  server: 54.180.233.91
+  skip-cert-verify: false
+  sni: central-jawfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #016'
+  password: CF68213490
+  port: 443
+  server: 54.255.158.218
+  skip-cert-verify: false
+  sni: powerful-troll.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇨 Seychelles #002'
+  password: humanity
+  port: 443
+  server: 45.130.125.126
+  skip-cert-verify: false
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #017'
+  password: CF68213490
+  port: 443
+  server: 13.212.252.228
+  skip-cert-verify: false
+  sni: prime-buzzard.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #129'
+  password: CF68213490
+  port: 443
+  server: logical-koala.rooster465.autos
+  skip-cert-verify: false
+  sni: logical-koala.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #130'
+  password: CF68213490
+  port: 443
+  server: summary-lemming.rooster465.autos
+  skip-cert-verify: true
+  sni: summary-lemming.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #131'
+  password: CF68213490
+  port: 443
+  server: tight-gator.rooster465.autos
+  skip-cert-verify: true
+  sni: tight-gator.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #132'
+  password: CF68213490
+  port: 443
+  server: lucky-chimp.rooster465.autos
+  skip-cert-verify: true
+  sni: lucky-chimp.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #018'
+  password: CF68213490
+  port: 443
+  server: 47.131.233.29
+  skip-cert-verify: false
+  sni: internal-krill.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #019'
+  password: CF68213490
+  port: 443
+  server: 54.255.225.60
+  skip-cert-verify: false
+  sni: tight-gator.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #133'
+  password: CF68213490
+  port: 443
+  server: immense-eagle.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #134'
+  password: CF68213490
+  port: 443
+  server: evolving-platypus.rooster465.autos
+  skip-cert-verify: true
+  sni: evolving-platypus.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #020'
+  password: CF68213490
+  port: 443
+  server: 54.255.251.6
+  skip-cert-verify: false
+  sni: grateful-owl.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #021'
+  password: CF68213490
+  port: 443
+  server: 52.221.218.103
+  skip-cert-verify: false
+  sni: sacred-treefrog.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #135'
+  password: CF68213490
+  port: 443
+  server: sharp-scorpion.rooster465.autos
+  skip-cert-verify: false
+  sni: sharp-scorpion.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #136'
+  password: NQ26071394
+  port: 443
+  server: helping-newt.rooster465.autos
+  skip-cert-verify: false
+  sni: helping-newt.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #137'
+  password: CF68213490
+  port: 443
+  server: normal-macaque.rooster465.autos
+  skip-cert-verify: true
+  sni: normal-macaque.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #138'
+  password: CF68213490
+  port: 443
+  server: star-hagfish.rooster465.autos
+  skip-cert-verify: false
+  sni: star-hagfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #139'
+  password: NQ26071394
+  port: 443
+  server: verified-ringtail.rooster465.autos
+  skip-cert-verify: true
+  sni: verified-ringtail.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #031'
+  password: CF68213490
+  port: 443
+  server: 54.180.235.223
+  skip-cert-verify: false
+  sni: eternal-horse.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #140'
+  password: humanity
+  port: 443
+  server: 104.18.32.47
+  skip-cert-verify: false
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #141'
+  password: CF68213490
+  port: 443
+  server: intimate-moray.rooster465.autos
+  skip-cert-verify: true
+  sni: intimate-moray.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #142'
+  password: NQ26071394
+  port: 443
+  server: amazing-troll.rooster465.autos
+  skip-cert-verify: false
+  sni: amazing-troll.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #143'
+  password: CF68213490
+  port: 443
+  server: relevant-oryx.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #022'
+  password: CF68213490
+  port: 443
+  server: 18.142.251.222
+  skip-cert-verify: false
+  sni: modest-bat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #144'
+  password: CF68213490
+  port: 443
+  server: active-hippo.rooster465.autos
+  skip-cert-verify: false
+  sni: active-hippo.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #145'
+  password: humanity
+  port: 443
+  server: 104.16.7.70
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #023'
+  password: CF68213490
+  port: 443
+  server: 13.212.190.163
+  skip-cert-verify: false
+  sni: learning-wren.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #146'
+  password: CF68213490
+  port: 443
+  server: learning-wren.rooster465.autos
+  skip-cert-verify: false
+  sni: learning-wren.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #147'
+  password: humanity
+  port: 443
+  server: 172.67.180.92
+  skip-cert-verify: true
+  sni: www.multiplydose.com
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #148'
+  password: CF68213490
+  port: 443
+  server: bright-cicada.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #024'
+  password: CF68213490
+  port: 443
+  server: 13.213.12.84
+  skip-cert-verify: false
+  sni: immense-eagle.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #025'
+  password: CF68213490
+  port: 443
+  server: 13.250.16.181
+  skip-cert-verify: false
+  sni: logical-koala.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #026'
+  password: CF68213490
+  port: 443
+  server: 47.131.229.111
+  skip-cert-verify: false
+  sni: normal-macaque.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #027'
+  password: CF68213490
+  port: 443
+  server: 52.221.255.155
+  skip-cert-verify: false
+  sni: summary-lemming.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #149'
+  password: CF68213490
+  port: 443
+  server: powerful-troll.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #057'
+  password: CF68213490
+  port: 443
+  server: 43.207.122.159
+  skip-cert-verify: false
+  sni: ultimate-jaguar.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #150'
+  password: NQ26071394
+  port: 443
+  server: pet-ghost.rooster465.autos
+  skip-cert-verify: true
+  sni: pet-ghost.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #151'
+  password: NQ26071394
+  port: 443
+  server: allowed-moose.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #152'
+  password: CF68213490
+  port: 443
+  server: sacred-treefrog.rooster465.autos
+  skip-cert-verify: false
+  sni: sacred-treefrog.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #153'
+  password: CF68213490
+  port: 443
+  server: prime-buzzard.rooster465.autos
+  skip-cert-verify: true
+  sni: prime-buzzard.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #028'
+  password: CF68213490
+  port: 443
+  server: 54.255.216.250
+  skip-cert-verify: false
+  sni: musical-terrier.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #029'
+  password: CF68213490
+  port: 443
+  server: 13.251.115.17
+  skip-cert-verify: false
+  sni: intimate-moray.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #154'
+  password: CF68213490
+  port: 443
+  server: musical-terrier.rooster465.autos
+  skip-cert-verify: false
+  sni: musical-terrier.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #155'
+  password: CF68213490
+  port: 443
+  server: internal-krill.rooster465.autos
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #156'
+  password: CF68213490
+  port: 443
+  server: vast-werewolf.rooster465.autos
+  skip-cert-verify: false
+  sni: vast-werewolf.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #032'
+  password: CF68213490
+  port: 443
+  server: 3.38.213.204
+  skip-cert-verify: false
+  sni: allowing-halibut.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #030'
+  password: CF68213490
+  port: 443
+  server: 54.169.255.31
+  skip-cert-verify: false
+  sni: gentle-raptor.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #157'
+  password: CF68213490
+  port: 443
+  server: saved-tuna.rooster465.autos
+  skip-cert-verify: false
+  sni: saved-tuna.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #033'
+  password: CF68213490
+  port: 443
+  server: 54.180.228.205
+  skip-cert-verify: false
+  sni: diverse-thrush.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #158'
+  password: CF68213490
+  port: 443
+  server: real-cardinal.rooster465.autos
+  skip-cert-verify: false
+  sni: real-cardinal.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #031'
+  password: pvZE3UfT0ziK1omVLlsjINBqeqqwab1M
+  port: 50573
+  server: 139.59.238.97
+  skip-cert-verify: true
+  sni: 139.59.238.97
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #159'
+  password: NQ26071394
+  port: 443
+  server: alert-titmouse.rooster465.autos
+  skip-cert-verify: true
+  sni: alert-titmouse.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #032'
+  password: 0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m
+  port: 450
+  server: 167.150.100.133
+  skip-cert-verify: false
+  sni: grape-power-sg.roxa.org
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #033'
+  password: CF68213490
+  port: 443
+  server: 18.141.239.172
+  skip-cert-verify: false
+  sni: star-hagfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #160'
+  password: NQ26071394
+  port: 443
+  server: driving-antelope.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #058'
+  password: CF68213490
+  port: 443
+  server: 52.68.237.45
+  skip-cert-verify: false
+  sni: welcome-monitor.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #034'
+  password: CF68213490
+  port: 443
+  server: 54.180.1.187
+  skip-cert-verify: false
+  sni: charming-puma.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #161'
+  password: NQ26071394
+  port: 443
+  server: proper-marlin.rooster465.autos
+  skip-cert-verify: true
+  sni: proper-marlin.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #059'
+  password: CF68213490
+  port: 443
+  server: 43.206.235.148
+  skip-cert-verify: false
+  sni: communal-sunbird.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #162'
+  password: NQ26071394
+  port: 443
+  server: topical-shark.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '🇰🇷 South Korea #035'
+  password: CF68213490
+  port: 443
+  server: 43.201.64.246
+  skip-cert-verify: false
+  sni: growing-ram.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #163'
+  password: humanity
+  port: 443
+  server: 172.64.147.227
+  skip-cert-verify: false
+  sni: www.gossipglove.com
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #034'
+  password: CF68213490
+  port: 443
+  server: 18.143.179.167
+  skip-cert-verify: false
+  sni: active-hippo.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #164'
+  password: NQ26071394
+  port: 443
+  server: bold-eagle.rooster465.autos
+  skip-cert-verify: false
+  sni: bold-eagle.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇸🇬 Singapore #035'
+  password: CF68213490
+  port: 443
+  server: 47.129.8.215
+  skip-cert-verify: false
+  sni: relevant-oryx.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🌐 Unknown #165'
+  password: NQ26071394
+  port: 443
+  server: eminent-hagfish.rooster465.autos
+  skip-cert-verify: true
+  sni: eminent-hagfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '🇯🇵 Japan #060'
+  password: CF68213490
+  port: 443
+  server: 18.177.136.64
+  skip-cert-verify: false
+  sni: moved-bluegill.rooster465.autos
+  type: trojan
+  udp: true
+proxy-groups:
+- interval: 300
+  name: auto
+  proxies:
+  - '🇺🇸 United States #001'
+  - '🇺🇸 United States #002'
+  - '🇺🇸 United States #003'
+  - 04-hysteria2-hysteria2-5115767
+  - '🇺🇸 United States #004'
+  - '🇺🇸 United States #005'
+  - '🇺🇸 United States #006'
+  - 08-hysteria2-hysteria2-5115766
+  - '🇺🇸 United States #007'
+  - '🇯🇵 Japan #001'
+  - '🇯🇵 Japan #002'
+  - '🇫🇷 France #001'
+  - '🇳🇱 The Netherlands #001'
+  - '🇩🇪 Germany #001'
+  - '🇩🇪 Germany #002'
+  - 16-hysteria2-hysteria2-24902
+  - '🇸🇬 Singapore #001'
+  - '🇸🇬 Singapore #002'
+  - '🇸🇬 Singapore #003'
+  - '🇸🇬 Singapore #004'
+  - 21-hysteria2-hysteria2-48396255
+  - 22-hysteria2-hysteria2-5115795
+  - 23-hysteria2-hysteria2-48396258
+  - '🇸🇬 Singapore #005'
+  - 25-hysteria2-hysteria2-5115765
+  - '🇫🇷 France #002'
+  - '🇷🇺 Russia #001'
+  - '🇹🇼 Taiwan #001'
+  - '🇸🇬 Singapore #006'
+  - '🇸🇬 Singapore #007'
+  - 31-hysteria2-hysteria2-35967863
+  - 32-hysteria2-hysteria2-131172
+  - 33-hysteria2-hysteria2-5115799
+  - '🇦🇹 Austria #001'
+  - 35-hysteria2-hysteria2-145042
+  - '🇸🇬 Singapore #008'
+  - '🇩🇪 Germany #003'
+  - '🇷🇴 Romania #001'
+  - '🇵🇱 Poland #001'
+  - '🇸🇬 Singapore #009'
+  - '🇰🇷 South Korea #001'
+  - '🇭🇰 Hong Kong #001'
+  - '🇺🇸 United States #008'
+  - '🇺🇸 United States #009'
+  - '🇺🇸 United States #010'
+  - '🇺🇸 United States #011'
+  - '🇨🇦 Canada #001'
+  - '🇺🇸 United States #012'
+  - '🇺🇸 United States #013'
+  - '🇨🇦 Canada #002'
+  - 51-shadowsocks-shadowsocks-2536935
+  - '🇺🇸 United States #014'
+  - 53-shadowsocks-shadowsocks-26968
+  - '🇺🇸 United States #015'
+  - 55-shadowsocks-shadowsocks-16135
+  - '🇺🇸 United States #016'
+  - '🇺🇸 United States #017'
+  - '🇺🇸 United States #018'
+  - '🇺🇸 United States #019'
+  - '🇨🇦 Canada #003'
+  - '🇪🇸 Spain #001'
+  - '🇺🇸 United States #020'
+  - '🇬🇧 United Kingdom #001'
+  - '🇬🇧 United Kingdom #002'
+  - '🇬🇧 United Kingdom #003'
+  - '🇬🇧 United Kingdom #004'
+  - '🇺🇸 United States #021'
+  - '🇳🇱 The Netherlands #002'
+  - '🇺🇸 United States #022'
+  - '🇰🇷 South Korea #002'
+  - '🇹🇼 Taiwan #002'
+  - '🇯🇵 Japan #003'
+  - '🇨🇦 Canada #004'
+  - '🇦🇺 Australia #001'
+  - '🇳🇱 The Netherlands #003'
+  - '🇯🇵 Japan #004'
+  - '🇰🇷 South Korea #003'
+  - '🇩🇪 Germany #004'
+  - '🇬🇧 United Kingdom #005'
+  - '🇬🇧 United Kingdom #006'
+  - '🇬🇧 United Kingdom #007'
+  - '🇬🇧 United Kingdom #008'
+  - '🇬🇧 United Kingdom #009'
+  - '🇬🇧 United Kingdom #010'
+  - '🇩🇪 Germany #005'
+  - '🇹🇼 Taiwan #003'
+  - '🇬🇧 United Kingdom #011'
+  - '🇳🇴 Norway #001'
+  - '🇳🇱 The Netherlands #004'
+  - '🇦🇺 Australia #002'
+  - '🇬🇧 United Kingdom #012'
+  - '🇫🇷 France #003'
+  - '🇬🇧 United Kingdom #013'
+  - '🇬🇧 United Kingdom #014'
+  - '🇬🇧 United Kingdom #015'
+  - '🇬🇧 United Kingdom #016'
+  - '🇬🇧 United Kingdom #017'
+  - '🇳🇱 The Netherlands #005'
+  - '🇬🇧 United Kingdom #018'
+  - '🇬🇧 United Kingdom #019'
+  - '🇬🇧 United Kingdom #020'
+  - '🇹🇼 Taiwan #004'
+  - '🇰🇷 South Korea #004'
+  - '🇰🇷 South Korea #005'
+  - '🇰🇷 South Korea #006'
+  - '🇬🇧 United Kingdom #021'
+  - '🇬🇧 United Kingdom #022'
+  - '🇦🇺 Australia #003'
+  - '🇬🇧 United Kingdom #023'
+  - '🇰🇷 South Korea #007'
+  - '🇰🇷 South Korea #008'
+  - '🇰🇷 South Korea #009'
+  - '🇬🇧 United Kingdom #024'
+  - '🇬🇧 United Kingdom #025'
+  - '🇺🇸 United States #023'
+  - '🇭🇰 Hong Kong #002'
+  - '🇬🇧 United Kingdom #026'
+  - '🇰🇷 South Korea #010'
+  - '🇹🇼 Taiwan #005'
+  - '🇬🇧 United Kingdom #027'
+  - '🇬🇧 United Kingdom #028'
+  - '🇬🇧 United Kingdom #029'
+  - '🇩🇪 Germany #006'
+  - '🇬🇧 United Kingdom #030'
+  - '🇭🇰 Hong Kong #003'
+  - '🇬🇧 United Kingdom #031'
+  - '🇬🇧 United Kingdom #032'
+  - '🇩🇪 Germany #007'
+  - '🇺🇸 United States #024'
+  - '🇰🇷 South Korea #011'
+  - '🇬🇧 United Kingdom #033'
+  - '🇯🇵 Japan #005'
+  - '🇳🇱 The Netherlands #006'
+  - '🇬🇧 United Kingdom #034'
+  - '🇬🇧 United Kingdom #035'
+  - '🇰🇷 South Korea #012'
+  - '🇬🇧 United Kingdom #036'
+  - '🇫🇷 France #004'
+  - '🇰🇷 South Korea #013'
+  - 140-shadowsocks-shadowsocks-4892331
+  - 141-shadowsocks-shadowsocks-298
+  - '🇭🇰 Hong Kong #004'
+  - '🇬🇧 United Kingdom #037'
+  - '🇫🇷 France #005'
+  - '🇳🇱 The Netherlands #007'
+  - '🇩🇪 Germany #008'
+  - '🇩🇪 Germany #009'
+  - '🇬🇧 United Kingdom #038'
+  - '🇬🇧 United Kingdom #039'
+  - '🇩🇪 Germany #010'
+  - '🇬🇧 United Kingdom #040'
+  - '🇳🇱 The Netherlands #008'
+  - '🇬🇧 United Kingdom #041'
+  - '🇩🇪 Germany #011'
+  - '🇬🇧 United Kingdom #042'
+  - '🇮🇹 Italy #001'
+  - '🇨🇦 Canada #005'
+  - '🇳🇱 The Netherlands #009'
+  - '🇬🇧 United Kingdom #043'
+  - '🇰🇷 South Korea #014'
+  - '🇬🇧 United Kingdom #044'
+  - '🇨🇭 Switzerland #001'
+  - '🇫🇷 France #006'
+  - '🇺🇸 United States #025'
+  - '🇰🇷 South Korea #015'
+  - '🇪🇸 Spain #002'
+  - '🇬🇧 United Kingdom #045'
+  - '🇬🇧 United Kingdom #046'
+  - '🇸🇬 Singapore #010'
+  - '🇬🇧 United Kingdom #047'
+  - '🇬🇧 United Kingdom #048'
+  - '🇬🇧 United Kingdom #049'
+  - '🇱🇹 Lithuania #001'
+  - '🇰🇷 South Korea #016'
+  - '🇪🇸 Spain #003'
+  - '🇰🇷 South Korea #017'
+  - '🇸🇬 Singapore #011'
+  - '🇧🇪 Belgium #001'
+  - '🇬🇧 United Kingdom #050'
+  - '🇭🇰 Hong Kong #005'
+  - '🇫🇷 France #007'
+  - '🇬🇧 United Kingdom #051'
+  - '🇳🇱 The Netherlands #010'
+  - '🇰🇷 South Korea #018'
+  - '🇨🇭 Switzerland #002'
+  - '🇷🇺 Russia #002'
+  - '🇹🇷 Türkiye #001'
+  - '🇳🇱 The Netherlands #011'
+  - '🇭🇰 Hong Kong #006'
+  - '🇸🇬 Singapore #012'
+  - '🇷🇴 Romania #002'
+  - 192-shadowsocks-shadowsocks-25076
+  - '🇬🇧 United Kingdom #052'
+  - '🇷🇴 Romania #003'
+  - '🇸🇬 Singapore #013'
+  - '🇩🇪 Germany #012'
+  - '🇸🇪 Sweden #001'
+  - '🇳🇱 The Netherlands #012'
+  - '🇷🇺 Russia #003'
+  - '🇮🇷 Iran #001'
+  - '🇺🇸 United States #026'
+  - '🇮🇹 Italy #002'
+  - '🇰🇷 South Korea #019'
+  - '🇬🇧 United Kingdom #053'
+  - '🇵🇱 Poland #002'
+  - '🇩🇪 Germany #013'
+  - '🇬🇧 United Kingdom #054'
+  - 208-shadowsocks-shadowsocks-42860721
+  - '🇹🇷 Türkiye #002'
+  - '🇳🇱 The Netherlands #013'
+  - '🇺🇸 United States #027'
+  - '🇫🇮 Finland #001'
+  - '🇬🇧 United Kingdom #055'
+  - '🇮🇪 Ireland #001'
+  - '🇮🇳 India #001'
+  - '🇮🇳 India #002'
+  - '🇮🇳 India #003'
+  - '🇷🇺 Russia #004'
+  - 219-shadowsocks-shadowsocks-130302
+  - '🇬🇧 United Kingdom #056'
+  - '🇧🇬 Bulgaria #001'
+  - '🇮🇳 India #004'
+  - '🇮🇳 India #005'
+  - 224-shadowsocks-shadowsocks-290
+  - '🇿🇦 South Africa #001'
+  - '🇬🇧 United Kingdom #057'
+  - '🇺🇸 United States #028'
+  - '🇿🇦 South Africa #002'
+  - '🇬🇧 United Kingdom #058'
+  - '🇫🇷 France #008'
+  - '🇬🇧 United Kingdom #059'
+  - '🇬🇧 United Kingdom #060'
+  - '🇫🇷 France #009'
+  - 234-shadowsocks-shadowsocks-19056434
+  - '🇸🇦 Saudi Arabia #001'
+  - '🇮🇳 India #006'
+  - '🇬🇧 United Kingdom #061'
+  - '🇮🇳 India #007'
+  - '🇬🇧 United Kingdom #062'
+  - '🇬🇧 United Kingdom #063'
+  - '🇬🇧 United Kingdom #064'
+  - '🇬🇧 United Kingdom #065'
+  - '🇬🇧 United Kingdom #066'
+  - '🇬🇧 United Kingdom #067'
+  - '🇬🇧 United Kingdom #068'
+  - 246-shadowsocks-shadowsocks-216
+  - '🇩🇪 Germany #014'
+  - '🇨🇿 Czechia #001'
+  - '🇺🇸 United States #029'
+  - '🇫🇷 France #010'
+  - '🇫🇷 France #011'
+  - '🇳🇱 The Netherlands #014'
+  - 253-shadowsocks-shadowsocks-10809794
+  - '🇬🇧 United Kingdom #069'
+  - '🇬🇧 United Kingdom #070'
+  - '🇺🇸 United States #030'
+  - '🇺🇸 United States #031'
+  - '🇺🇸 United States #032'
+  - '🇺🇸 United States #033'
+  - 260-trojan-trojan-17354
+  - '🇺🇸 United States #034'
+  - '🇺🇸 United States #035'
+  - '🇺🇸 United States #036'
+  - '🇺🇸 United States #037'
+  - '🇺🇸 United States #038'
+  - '🇺🇸 United States #039'
+  - '🇺🇸 United States #040'
+  - '🇺🇸 United States #041'
+  - 269-trojan-trojan-48430242
+  - 270-trojan-trojan-48429242
+  - '🇺🇸 United States #042'
+  - 272-trojan-trojan-50669626
+  - '🇺🇸 United States #043'
+  - 274-trojan-trojan-40158526
+  - '🇺🇸 United States #044'
+  - '🇺🇸 United States #045'
+  - 277-trojan-trojan-42902389
+  - '🇺🇸 United States #046'
+  - 279-trojan-trojan-50669627
+  - 280-trojan-trojan-50669629
+  - 281-trojan-trojan-45900511
+  - 282-trojan-trojan-45672610
+  - 283-trojan-trojan-42901377
+  - 284-trojan-trojan-2520862
+  - 285-trojan-trojan-50669625
+  - '🇺🇸 United States #047'
+  - 287-trojan-trojan-38202174
+  - '🇺🇸 United States #048'
+  - 289-trojan-trojan-35967886
+  - 290-trojan-trojan-2520864
+  - 291-trojan-trojan-48438276
+  - 292-trojan-trojan-21083429
+  - 293-trojan-trojan-42901378
+  - '🌐 Unknown #001'
+  - 295-trojan-trojan-35967889
+  - '🇺🇸 United States #049'
+  - 297-trojan-trojan-2520863
+  - 298-trojan-trojan-42900479
+  - 299-trojan-trojan-35967894
+  - 300-trojan-trojan-35967892
+  - 301-trojan-trojan-29217052
+  - 302-trojan-trojan-26489730
+  - 303-trojan-trojan-40166536
+  - 304-trojan-trojan-143578
+  - '🌐 Unknown #002'
+  - '🌐 Unknown #003'
+  - '🌐 Unknown #004'
+  - '🌐 Unknown #005'
+  - '🇯🇵 Japan #006'
+  - 310-trojan-trojan-2501789
+  - '🇯🇵 Japan #007'
+  - '🇯🇵 Japan #008'
+  - '🌐 Unknown #006'
+  - '🌐 Unknown #007'
+  - '🌐 Unknown #008'
+  - '🌐 Unknown #009'
+  - '🌐 Unknown #010'
+  - 318-trojan-trojan-120093
+  - '🌐 Unknown #011'
+  - '🌐 Unknown #012'
+  - '🌐 Unknown #013'
+  - '🌐 Unknown #014'
+  - '🌐 Unknown #015'
+  - 324-trojan-trojan-12777689
+  - '🇯🇵 Japan #009'
+  - 326-trojan-trojan-37422025
+  - '🇯🇵 Japan #010'
+  - '🌐 Unknown #016'
+  - '🇯🇵 Japan #011'
+  - '🌐 Unknown #017'
+  - '🌐 Unknown #018'
+  - '🌐 Unknown #019'
+  - '🇮🇳 India #008'
+  - '🌐 Unknown #020'
+  - '🌐 Unknown #021'
+  - '🇯🇵 Japan #012'
+  - '🌐 Unknown #022'
+  - '🌐 Unknown #023'
+  - '🌐 Unknown #024'
+  - 340-trojan-trojan-11309697
+  - 341-trojan-trojan-31967697
+  - 342-trojan-trojan-12776688
+  - '🌐 Unknown #025'
+  - 344-trojan-trojan-160
+  - '🌐 Unknown #026'
+  - '🇯🇵 Japan #013'
+  - 347-trojan-trojan-38202195
+  - 348-trojan-trojan-34919075
+  - '🌐 Unknown #027'
+  - '🌐 Unknown #028'
+  - '🌐 Unknown #029'
+  - '🌐 Unknown #030'
+  - '🌐 Unknown #031'
+  - '🌐 Unknown #032'
+  - '🌐 Unknown #033'
+  - '🌐 Unknown #034'
+  - 357-trojan-trojan-34919048
+  - '🌐 Unknown #035'
+  - 359-trojan-trojan-12250464
+  - 360-trojan-trojan-26489690
+  - '🌐 Unknown #036'
+  - '🌐 Unknown #037'
+  - '🌐 Unknown #038'
+  - 364-trojan-trojan-12778684
+  - '🌐 Unknown #039'
+  - '🌐 Unknown #040'
+  - 367-trojan-trojan-12778671
+  - '🌐 Unknown #041'
+  - 369-trojan-trojan-4821867
+  - '🌐 Unknown #042'
+  - 371-trojan-trojan-40166526
+  - '🇯🇵 Japan #014'
+  - 373-trojan-trojan-34919079
+  - '🌐 Unknown #043'
+  - 375-trojan-trojan-38202189
+  - '🌐 Unknown #044'
+  - '🌐 Unknown #045'
+  - '🌐 Unknown #046'
+  - 379-trojan-trojan-26489693
+  - 380-trojan-trojan-29217029
+  - 381-trojan-trojan-34919081
+  - '🇯🇵 Japan #015'
+  - 383-trojan-trojan-29217030
+  - '🌐 Unknown #047'
+  - 385-trojan-trojan-10217061
+  - '🇯🇵 Japan #016'
+  - 387-trojan-trojan-15666830
+  - 388-trojan-trojan-29217031
+  - 389-trojan-trojan-34919065
+  - '🌐 Unknown #048'
+  - 391-trojan-trojan-15666834
+  - 392-trojan-trojan-15666835
+  - 393-trojan-trojan-34919053
+  - 394-trojan-trojan-12776694
+  - 395-trojan-trojan-12776693
+  - 396-trojan-trojan-26489698
+  - '🇯🇵 Japan #017'
+  - '🌐 Unknown #049'
+  - 399-trojan-trojan-15673822
+  - 400-trojan-trojan-34919084
+  - '🌐 Unknown #050'
+  - 402-trojan-trojan-29250121
+  - '🌐 Unknown #051'
+  - '🌐 Unknown #052'
+  - '🌐 Unknown #053'
+  - '🌐 Unknown #054'
+  - 407-trojan-trojan-10217056
+  - '🌐 Unknown #055'
+  - '🌐 Unknown #056'
+  - 410-trojan-trojan-29217028
+  - 411-trojan-trojan-37647476
+  - '🌐 Unknown #057'
+  - 413-trojan-trojan-34919047
+  - '🇯🇵 Japan #018'
+  - '🌐 Unknown #058'
+  - '🇯🇵 Japan #019'
+  - '🌐 Unknown #059'
+  - 418-trojan-trojan-26489700
+  - '🌐 Unknown #060'
+  - 420-trojan-trojan-26489696
+  - 421-trojan-trojan-34919043
+  - 422-trojan-trojan-26489694
+  - 423-trojan-trojan-38202227
+  - 424-trojan-trojan-15666839
+  - 425-trojan-trojan-34919082
+  - '🌐 Unknown #061'
+  - '🇮🇪 Ireland #002'
+  - 428-trojan-trojan-34919041
+  - '🌐 Unknown #062'
+  - 430-trojan-trojan-34919067
+  - 431-trojan-trojan-2501800
+  - 432-trojan-trojan-34919093
+  - '🇮🇪 Ireland #003'
+  - '🇮🇪 Ireland #004'
+  - '🇮🇪 Ireland #005'
+  - 436-trojan-trojan-38202223
+  - 437-trojan-trojan-34919062
+  - 438-trojan-trojan-38202219
+  - '🌐 Unknown #063'
+  - 440-trojan-trojan-50669787
+  - '🌐 Unknown #064'
+  - 442-trojan-trojan-2522928
+  - '🇮🇪 Ireland #006'
+  - 444-trojan-trojan-37431024
+  - '🇮🇪 Ireland #007'
+  - 446-trojan-trojan-48438261
+  - '🌐 Unknown #065'
+  - 448-trojan-trojan-10217051
+  - '🌐 Unknown #066'
+  - 450-trojan-trojan-2522933
+  - 451-trojan-trojan-2522932
+  - 452-trojan-trojan-34919068
+  - 453-trojan-trojan-31975698
+  - 454-trojan-trojan-50669791
+  - '🌐 Unknown #067'
+  - 456-trojan-trojan-42900481
+  - 457-trojan-trojan-12860559
+  - '🇮🇪 Ireland #008'
+  - '🇮🇪 Ireland #009'
+  - 460-trojan-trojan-46253307
+  - '🇮🇪 Ireland #010'
+  - '🇮🇪 Ireland #011'
+  - 463-trojan-trojan-34919071
+  - '🇮🇪 Ireland #012'
+  - 465-trojan-trojan-111461
+  - '🇮🇪 Ireland #013'
+  - 467-trojan-trojan-51221394
+  - '🇯🇵 Japan #020'
+  - 469-trojan-trojan-2522931
+  - 470-trojan-trojan-34919056
+  - 471-trojan-trojan-38202197
+  - 472-trojan-trojan-50669786
+  - 473-trojan-trojan-46255309
+  - 474-trojan-trojan-34701903
+  - 475-trojan-trojan-48438263
+  - '🇯🇵 Japan #021'
+  - 477-trojan-trojan-46254303
+  - 478-trojan-trojan-50669793
+  - '🇯🇵 Japan #022'
+  - 480-trojan-trojan-51221400
+  - 481-trojan-trojan-2522930
+  - 482-trojan-trojan-2522937
+  - 483-trojan-trojan-40384434
+  - 484-trojan-trojan-29258108
+  - 485-trojan-trojan-50669788
+  - 486-trojan-trojan-49030874
+  - 487-trojan-trojan-2522936
+  - 488-trojan-trojan-46255310
+  - '🇯🇵 Japan #023'
+  - '🇫🇷 France #012'
+  - 491-trojan-trojan-42900429
+  - '🇫🇷 France #013'
+  - 493-trojan-trojan-50669780
+  - 494-trojan-trojan-31975699
+  - '🌐 Unknown #068'
+  - 496-trojan-trojan-48438259
+  - 497-trojan-trojan-33238114
+  - 498-trojan-trojan-38202175
+  - 499-trojan-trojan-49030883
+  - 500-trojan-trojan-42909391
+  - 501-trojan-trojan-42909397
+  - 502-trojan-trojan-38202200
+  - '🇯🇵 Japan #024'
+  - 504-trojan-trojan-50669781
+  - 505-trojan-trojan-46255306
+  - 506-trojan-trojan-38202207
+  - '🇯🇵 Japan #025'
+  - '🇩🇪 Germany #015'
+  - 509-trojan-trojan-48438260
+  - '🇳🇱 The Netherlands #015'
+  - '🇳🇱 The Netherlands #016'
+  - 512-trojan-trojan-143555
+  - 513-trojan-trojan-50669615
+  - '🇳🇱 The Netherlands #017'
+  - '🇩🇪 Germany #016'
+  - '🇳🇱 The Netherlands #018'
+  - 517-trojan-trojan-42900478
+  - 518-trojan-trojan-38202237
+  - '🇩🇪 Germany #017'
+  - '🇳🇱 The Netherlands #019'
+  - 521-trojan-trojan-34693906
+  - 522-trojan-trojan-46470216
+  - 523-trojan-trojan-27054
+  - '🇳🇱 The Netherlands #020'
+  - 525-trojan-trojan-34919087
+  - '🇩🇪 Germany #018'
+  - '🇩🇪 Germany #019'
+  - '🇩🇪 Germany #020'
+  - 529-trojan-trojan-38202220
+  - '🇺🇸 United States #050'
+  - 531-trojan-trojan-50669611
+  - '🇩🇪 Germany #021'
+  - '🇦🇺 Australia #004'
+  - '🇦🇺 Australia #005'
+  - '🇳🇱 The Netherlands #021'
+  - 536-trojan-trojan-48438275
+  - '🇦🇺 Australia #006'
+  - '🇦🇺 Australia #007'
+  - '🇳🇱 The Netherlands #022'
+  - 540-trojan-trojan-35027316
+  - '🇩🇪 Germany #022'
+  - 542-trojan-trojan-45680652
+  - 543-trojan-trojan-2503777
+  - '🇯🇵 Japan #026'
+  - '🇦🇺 Australia #008'
+  - '🇯🇵 Japan #027'
+  - 547-trojan-trojan-34701904
+  - 548-trojan-trojan-16137
+  - '🇯🇵 Japan #028'
+  - 550-trojan-trojan-121349
+  - 551-trojan-trojan-42900441
+  - '🇦🇺 Australia #009'
+  - 553-trojan-trojan-50669614
+  - '🇦🇺 Australia #010'
+  - '🇯🇵 Japan #029'
+  - 556-trojan-trojan-29217018
+  - '🇦🇺 Australia #011'
+  - 558-trojan-trojan-45680640
+  - 559-trojan-trojan-11309692
+  - '🇰🇷 South Korea #020'
+  - '🇩🇪 Germany #023'
+  - 562-trojan-trojan-34695904
+  - '🇩🇪 Germany #024'
+  - '🇩🇪 Germany #025'
+  - 565-trojan-trojan-2503798
+  - 566-trojan-trojan-21084285
+  - 567-trojan-trojan-45680653
+  - 568-trojan-trojan-48431241
+  - 569-trojan-trojan-2503778
+  - 570-trojan-trojan-5155760
+  - 571-trojan-trojan-11309698
+  - 572-trojan-trojan-33238095
+  - '🇩🇪 Germany #026'
+  - 574-trojan-trojan-29260111
+  - 575-trojan-trojan-45673610
+  - '🇩🇪 Germany #027'
+  - 577-trojan-trojan-40158527
+  - 578-trojan-trojan-50669794
+  - 579-trojan-trojan-23749945
+  - '🇩🇪 Germany #028'
+  - 581-trojan-trojan-48440241
+  - 582-trojan-trojan-48438258
+  - 583-trojan-trojan-34693973
+  - 584-trojan-trojan-198
+  - 585-trojan-trojan-43490274
+  - 586-trojan-trojan-10089396
+  - '🇯🇵 Japan #030'
+  - 588-trojan-trojan-50669623
+  - 589-trojan-trojan-23750901
+  - 590-trojan-trojan-16139
+  - 591-trojan-trojan-38202228
+  - '🇯🇵 Japan #031'
+  - 593-trojan-trojan-21093285
+  - 594-trojan-trojan-51444479
+  - 595-trojan-trojan-26534141
+  - 596-trojan-trojan-27074
+  - 597-trojan-trojan-27009
+  - 598-trojan-trojan-15676821
+  - 599-trojan-trojan-48441240
+  - 600-trojan-trojan-51221413
+  - '🇩🇪 Germany #029'
+  - 602-trojan-trojan-42909388
+  - 603-trojan-trojan-50669622
+  - 604-trojan-trojan-27021
+  - '🇩🇪 Germany #030'
+  - 606-trojan-trojan-31975696
+  - 607-trojan-trojan-29258107
+  - '🇩🇪 Germany #031'
+  - 609-trojan-trojan-15676822
+  - 610-trojan-trojan-26489684
+  - '🌐 Unknown #069'
+  - '🌐 Unknown #070'
+  - '🇯🇵 Japan #032'
+  - 614-trojan-trojan-12839566
+  - 615-trojan-trojan-42909389
+  - 616-trojan-trojan-25994257
+  - '🇩🇪 Germany #032'
+  - 618-trojan-trojan-50669783
+  - 619-trojan-trojan-4821840
+  - 620-trojan-trojan-23759901
+  - 621-trojan-trojan-38202183
+  - 622-trojan-trojan-27015
+  - 623-trojan-trojan-27075
+  - 624-trojan-trojan-46253306
+  - 625-trojan-trojan-50669795
+  - 626-trojan-trojan-38202231
+  - 627-trojan-trojan-42900477
+  - 628-trojan-trojan-27029
+  - 629-trojan-trojan-27016
+  - '🇩🇪 Germany #033'
+  - '🇯🇵 Japan #033'
+  - '🇨🇭 Switzerland #003'
+  - '🇯🇵 Japan #034'
+  - '🇰🇷 South Korea #021'
+  - '🇰🇷 South Korea #022'
+  - 636-trojan-trojan-42911380
+  - 637-trojan-trojan-27002
+  - '🇯🇵 Japan #035'
+  - 639-trojan-trojan-33238105
+  - '🌐 Unknown #071'
+  - '🇯🇵 Japan #036'
+  - 642-trojan-trojan-27014
+  - 643-trojan-trojan-27010
+  - '🇯🇵 Japan #037'
+  - 645-trojan-trojan-51444474
+  - 646-trojan-trojan-40166535
+  - 647-trojan-trojan-38202191
+  - 648-trojan-trojan-2509758
+  - 649-trojan-trojan-48447240
+  - '🌐 Unknown #072'
+  - 651-trojan-trojan-34703904
+  - 652-trojan-trojan-27018
+  - '🌐 Unknown #073'
+  - '🇩🇪 Germany #034'
+  - '🌐 Unknown #074'
+  - '🌐 Unknown #075'
+  - '🌐 Unknown #076'
+  - '🇯🇵 Japan #038'
+  - '🌐 Unknown #077'
+  - '🌐 Unknown #078'
+  - 661-trojan-trojan-2509750
+  - '🌐 Unknown #079'
+  - 663-trojan-trojan-250
+  - 664-trojan-trojan-18389420
+  - 665-trojan-trojan-38202165
+  - '🌐 Unknown #080'
+  - '🌐 Unknown #081'
+  - '🌐 Unknown #082'
+  - 669-trojan-trojan-38202163
+  - 670-trojan-trojan-145230
+  - '🇰🇷 South Korea #023'
+  - '🌐 Unknown #083'
+  - '🌐 Unknown #084'
+  - 674-trojan-trojan-49030904
+  - 675-trojan-trojan-256
+  - 676-trojan-trojan-27017
+  - '🌐 Unknown #085'
+  - 678-trojan-trojan-12250474
+  - 679-trojan-trojan-27007
+  - 680-trojan-trojan-42900433
+  - 681-trojan-trojan-12250477
+  - '🇯🇵 Japan #039'
+  - '🌐 Unknown #086'
+  - '🌐 Unknown #087'
+  - 685-trojan-trojan-27020
+  - '🌐 Unknown #088'
+  - '🌐 Unknown #089'
+  - 688-trojan-trojan-11650
+  - 689-trojan-trojan-10217064
+  - 690-trojan-trojan-46253303
+  - 691-trojan-trojan-42902382
+  - 692-trojan-trojan-27012
+  - '🌐 Unknown #090'
+  - 694-trojan-trojan-46253305
+  - 695-trojan-trojan-12250476
+  - 696-trojan-trojan-10217045
+  - '🌐 Unknown #091'
+  - 698-trojan-trojan-29250107
+  - 699-trojan-trojan-23765902
+  - '🌐 Unknown #092'
+  - '🌐 Unknown #093'
+  - 702-trojan-trojan-26541141
+  - 703-trojan-trojan-27011
+  - 704-trojan-trojan-2509763
+  - '🇰🇷 South Korea #024'
+  - 706-trojan-trojan-15666842
+  - '🌐 Unknown #094'
+  - 708-trojan-trojan-34919045
+  - 709-trojan-trojan-10217063
+  - 710-trojan-trojan-27001
+  - 711-trojan-trojan-12250478
+  - 712-trojan-trojan-45680635
+  - '🌐 Unknown #095'
+  - 714-trojan-trojan-15666838
+  - '🌐 Unknown #096'
+  - 716-trojan-trojan-4821839
+  - 717-trojan-trojan-5161760
+  - 718-trojan-trojan-2509756
+  - 719-trojan-trojan-15666827
+  - 720-trojan-trojan-34693947
+  - '🌐 Unknown #097'
+  - 722-trojan-trojan-38202271
+  - '🇰🇷 South Korea #025'
+  - '🌐 Unknown #098'
+  - 725-trojan-trojan-12250468
+  - 726-trojan-trojan-10217062
+  - 727-trojan-trojan-43237313
+  - 728-trojan-trojan-15666822
+  - 729-trojan-trojan-15666831
+  - 730-trojan-trojan-38202204
+  - '🌐 Unknown #099'
+  - 732-trojan-trojan-10217050
+  - 733-trojan-trojan-21084286
+  - 734-trojan-trojan-50669784
+  - 735-trojan-trojan-15666826
+  - 736-trojan-trojan-12250485
+  - 737-trojan-trojan-10217046
+  - 738-trojan-trojan-10217041
+  - 739-trojan-trojan-15666821
+  - 740-trojan-trojan-38202283
+  - 741-trojan-trojan-38202235
+  - 742-trojan-trojan-10217047
+  - 743-trojan-trojan-12250470
+  - 744-trojan-trojan-34693963
+  - 745-trojan-trojan-10217049
+  - 746-trojan-trojan-10217054
+  - '🌐 Unknown #100'
+  - 748-trojan-trojan-21083325
+  - 749-trojan-trojan-34919089
+  - 750-trojan-trojan-38202273
+  - '🌐 Unknown #101'
+  - '🌐 Unknown #102'
+  - 753-trojan-trojan-15666841
+  - '🌐 Unknown #103'
+  - 755-trojan-trojan-51753352
+  - 756-trojan-trojan-12250469
+  - 757-trojan-trojan-38202238
+  - 758-trojan-trojan-12250472
+  - 759-trojan-trojan-38202277
+  - 760-trojan-trojan-40166533
+  - 761-trojan-trojan-15666824
+  - 762-trojan-trojan-34919086
+  - 763-trojan-trojan-15666820
+  - 764-trojan-trojan-38202268
+  - 765-trojan-trojan-29267107
+  - '🇮🇪 Ireland #014'
+  - 767-trojan-trojan-46255303
+  - 768-trojan-trojan-42900445
+  - 769-trojan-trojan-26750797
+  - 770-trojan-trojan-10217052
+  - '🇭🇰 Hong Kong #007'
+  - 772-trojan-trojan-10217043
+  - 773-trojan-trojan-4821844
+  - '🌐 Unknown #104'
+  - 775-trojan-trojan-10217060
+  - 776-trojan-trojan-26489681
+  - 777-trojan-trojan-34693954
+  - 778-trojan-trojan-42909383
+  - 779-trojan-trojan-38202279
+  - '🇮🇪 Ireland #015'
+  - 781-trojan-trojan-27305069
+  - '🌐 Unknown #105'
+  - 783-trojan-trojan-11309689
+  - '🌐 Unknown #106'
+  - 785-trojan-trojan-38202275
+  - 786-trojan-trojan-15666823
+  - '🌐 Unknown #107'
+  - 788-trojan-trojan-46254313
+  - '🌐 Unknown #108'
+  - '🇰🇷 South Korea #026'
+  - 791-trojan-trojan-38202272
+  - 792-trojan-trojan-38202202
+  - 793-trojan-trojan-46254306
+  - 794-trojan-trojan-38202201
+  - 795-trojan-trojan-12250467
+  - 796-trojan-trojan-21083326
+  - 797-trojan-trojan-21083321
+  - 798-trojan-trojan-10217044
+  - 799-trojan-trojan-34919092
+  - 800-trojan-trojan-145253
+  - 801-trojan-trojan-38202276
+  - 802-trojan-trojan-21083296
+  - 803-trojan-trojan-10217053
+  - '🇫🇷 France #014'
+  - 805-trojan-trojan-38202212
+  - 806-trojan-trojan-42900407
+  - 807-trojan-trojan-38202199
+  - 808-trojan-trojan-34919094
+  - 809-trojan-trojan-40166534
+  - '🇯🇵 Japan #040'
+  - 811-trojan-trojan-35268089
+  - '🇯🇵 Japan #041'
+  - 813-trojan-trojan-34693984
+  - 814-trojan-trojan-34919085
+  - 815-trojan-trojan-34693921
+  - 816-trojan-trojan-42900377
+  - 817-trojan-trojan-2471780
+  - 818-trojan-trojan-34695907
+  - '🇯🇵 Japan #042'
+  - '🌐 Unknown #109'
+  - '🇯🇵 Japan #043'
+  - 822-trojan-trojan-38202198
+  - 823-trojan-trojan-38202270
+  - 824-trojan-trojan-18372421
+  - 825-trojan-trojan-2471779
+  - 826-trojan-trojan-42900401
+  - '🇯🇵 Japan #044'
+  - 828-trojan-trojan-34693983
+  - '🇯🇵 Japan #045'
+  - '🇵🇱 Poland #003'
+  - '🇯🇵 Japan #046'
+  - 832-trojan-trojan-38202194
+  - 833-trojan-trojan-5155761
+  - 834-trojan-trojan-34693923
+  - 835-trojan-trojan-38202205
+  - '🌐 Unknown #110'
+  - 837-trojan-trojan-42900389
+  - '🇵🇱 Poland #004'
+  - 839-trojan-trojan-199
+  - '🇩🇪 Germany #035'
+  - 841-trojan-trojan-42900430
+  - '🇵🇱 Poland #005'
+  - '🇨🇭 Switzerland #004'
+  - 844-trojan-trojan-38202209
+  - '🇯🇵 Japan #047'
+  - 846-trojan-trojan-24339
+  - '🌐 Unknown #111'
+  - '🇵🇱 Poland #006'
+  - '🇵🇱 Poland #007'
+  - '🇵🇱 Poland #008'
+  - '🇯🇵 Japan #048'
+  - 852-trojan-trojan-191
+  - 853-trojan-trojan-16138
+  - 854-trojan-trojan-38202281
+  - '🇯🇵 Japan #049'
+  - 856-trojan-trojan-42900405
+  - 857-trojan-trojan-38202232
+  - '🌐 Unknown #112'
+  - 859-trojan-trojan-34919090
+  - '🌐 Unknown #113'
+  - 861-trojan-trojan-38202266
+  - '🌐 Unknown #114'
+  - 863-trojan-trojan-2503775
+  - '🇵🇱 Poland #009'
+  - 865-trojan-trojan-38202222
+  - 866-trojan-trojan-50669725
+  - 867-trojan-trojan-4821846
+  - '🌐 Unknown #115'
+  - 869-trojan-trojan-50669727
+  - 870-trojan-trojan-34693975
+  - '🇵🇱 Poland #010'
+  - 872-trojan-trojan-2501825
+  - 873-trojan-trojan-38202192
+  - 874-trojan-trojan-31969698
+  - 875-trojan-trojan-34693982
+  - 876-trojan-trojan-38202225
+  - 877-trojan-trojan-35967876
+  - '🇭🇺 Hungary #001'
+  - '🇯🇵 Japan #050'
+  - '🇨🇭 Switzerland #005'
+  - 881-trojan-trojan-38202208
+  - 882-trojan-trojan-50669726
+  - '🌐 Unknown #116'
+  - 884-trojan-trojan-46254308
+  - 885-trojan-trojan-38202274
+  - 886-trojan-trojan-2503878
+  - 887-trojan-trojan-34693966
+  - '🌐 Unknown #117'
+  - 889-trojan-trojan-25994261
+  - '🇯🇵 Japan #051'
+  - 891-trojan-trojan-2501824
+  - 892-trojan-trojan-42900421
+  - 893-trojan-trojan-35967875
+  - 894-trojan-trojan-26745
+  - '🌐 Unknown #118'
+  - 896-trojan-trojan-51215385
+  - '🇵🇱 Poland #011'
+  - '🇺🇸 United States #051'
+  - 899-trojan-trojan-11309699
+  - 900-trojan-trojan-34695906
+  - 901-trojan-trojan-34693911
+  - 902-trojan-trojan-38202188
+  - 903-trojan-trojan-50669721
+  - 904-trojan-trojan-38202229
+  - 905-trojan-trojan-2514925
+  - 906-trojan-trojan-38202230
+  - 907-trojan-trojan-38202187
+  - '🌐 Unknown #119'
+  - 909-trojan-trojan-38202180
+  - 910-trojan-trojan-38202263
+  - '🇯🇵 Japan #052'
+  - 912-trojan-trojan-38202196
+  - 913-trojan-trojan-37428022
+  - 914-trojan-trojan-34701906
+  - '🌐 Unknown #120'
+  - 916-trojan-trojan-50669722
+  - 917-trojan-trojan-42902386
+  - '🌐 Unknown #121'
+  - 919-trojan-trojan-42900444
+  - '🇯🇵 Japan #053'
+  - 921-trojan-trojan-34693958
+  - 922-trojan-trojan-38202206
+  - '🇯🇵 Japan #054'
+  - '🇰🇷 South Korea #027'
+  - 925-trojan-trojan-145249
+  - 926-trojan-trojan-2516823
+  - 927-trojan-trojan-38202217
+  - '🇯🇵 Japan #055'
+  - 929-trojan-trojan-34695909
+  - 930-trojan-trojan-24448
+  - 931-trojan-trojan-11906
+  - 932-trojan-trojan-34693931
+  - 933-trojan-trojan-42909392
+  - '🇸🇨 Seychelles #001'
+  - '🌐 Unknown #122'
+  - '🇯🇵 Japan #056'
+  - 937-trojan-trojan-38202267
+  - '🇰🇷 South Korea #028'
+  - 939-trojan-trojan-38202210
+  - 940-trojan-trojan-2515946
+  - '🇵🇱 Poland #012'
+  - '🌐 Unknown #123'
+  - '🇰🇷 South Korea #029'
+  - 944-trojan-trojan-11951
+  - 945-trojan-trojan-16429
+  - 946-trojan-trojan-42909394
+  - '🇬🇧 United Kingdom #071'
+  - 948-trojan-trojan-42900404
+  - 949-trojan-trojan-50669724
+  - '🌐 Unknown #124'
+  - '🌐 Unknown #125'
+  - '🇬🇧 United Kingdom #072'
+  - '🌐 Unknown #126'
+  - '🌐 Unknown #127'
+  - 955-trojan-trojan-11949
+  - '🌐 Unknown #128'
+  - 957-trojan-trojan-42900419
+  - 958-trojan-trojan-42900392
+  - 959-trojan-trojan-38202193
+  - '🇸🇬 Singapore #014'
+  - '🇸🇬 Singapore #015'
+  - '🇰🇷 South Korea #030'
+  - '🇸🇬 Singapore #016'
+  - 964-trojan-trojan-43128695
+  - '🇸🇨 Seychelles #002'
+  - '🇸🇬 Singapore #017'
+  - '🌐 Unknown #129'
+  - '🌐 Unknown #130'
+  - 969-trojan-trojan-34693959
+  - '🌐 Unknown #131'
+  - '🌐 Unknown #132'
+  - 972-trojan-trojan-21083338
+  - 973-trojan-trojan-42902387
+  - '🇸🇬 Singapore #018'
+  - '🇸🇬 Singapore #019'
+  - '🌐 Unknown #133'
+  - 977-trojan-trojan-42900406
+  - '🌐 Unknown #134'
+  - '🇸🇬 Singapore #020'
+  - '🇸🇬 Singapore #021'
+  - '🌐 Unknown #135'
+  - '🌐 Unknown #136'
+  - '🌐 Unknown #137'
+  - '🌐 Unknown #138'
+  - 985-trojan-trojan-15957314
+  - '🌐 Unknown #139'
+  - 987-trojan-trojan-43128697
+  - '🇰🇷 South Korea #031'
+  - '🌐 Unknown #140'
+  - '🌐 Unknown #141'
+  - 991-trojan-trojan-21083322
+  - '🌐 Unknown #142'
+  - '🌐 Unknown #143'
+  - 994-trojan-trojan-21083428
+  - '🇸🇬 Singapore #022'
+  - '🌐 Unknown #144'
+  - '🌐 Unknown #145'
+  - '🇸🇬 Singapore #023'
+  - '🌐 Unknown #146'
+  - '🌐 Unknown #147'
+  - 1001-trojan-trojan-43128686
+  - '🌐 Unknown #148'
+  - 1003-trojan-trojan-43128701
+  - 1004-trojan-trojan-15666833
+  - 1005-trojan-trojan-21083354
+  - '🇸🇬 Singapore #024'
+  - '🇸🇬 Singapore #025'
+  - '🇸🇬 Singapore #026'
+  - 1009-trojan-trojan-26489729
+  - '🇸🇬 Singapore #027'
+  - '🌐 Unknown #149'
+  - '🇯🇵 Japan #057'
+  - 1013-trojan-trojan-43128703
+  - 1014-trojan-trojan-43128689
+  - '🌐 Unknown #150'
+  - 1016-trojan-trojan-43128687
+  - '🌐 Unknown #151'
+  - '🌐 Unknown #152'
+  - '🌐 Unknown #153'
+  - 1020-trojan-trojan-43128692
+  - '🇸🇬 Singapore #028'
+  - '🇸🇬 Singapore #029'
+  - 1023-trojan-trojan-26534142
+  - 1024-trojan-trojan-12250483
+  - '🌐 Unknown #154'
+  - '🌐 Unknown #155'
+  - 1027-trojan-trojan-29217045
+  - 1028-trojan-trojan-16151
+  - 1029-trojan-trojan-31967696
+  - 1030-trojan-trojan-42900436
+  - 1031-trojan-trojan-29217044
+  - 1032-trojan-trojan-2519860
+  - 1033-trojan-trojan-24693
+  - '🌐 Unknown #156'
+  - 1035-trojan-trojan-21083424
+  - 1036-trojan-trojan-33238128
+  - 1037-trojan-trojan-43128688
+  - 1038-trojan-trojan-26489726
+  - 1039-trojan-trojan-43128691
+  - '🇰🇷 South Korea #032'
+  - 1041-trojan-trojan-15666837
+  - 1042-trojan-trojan-21083293
+  - 1043-trojan-trojan-21083333
+  - 1044-trojan-trojan-42900473
+  - '🇸🇬 Singapore #030'
+  - 1046-trojan-trojan-29250115
+  - 1047-trojan-trojan-26489724
+  - 1048-trojan-trojan-42900417
+  - 1049-trojan-trojan-21083350
+  - 1050-trojan-trojan-2520744
+  - 1051-trojan-trojan-38202214
+  - '🌐 Unknown #157'
+  - 1053-trojan-trojan-38202226
+  - 1054-trojan-trojan-15666836
+  - '🇰🇷 South Korea #033'
+  - 1056-trojan-trojan-26489712
+  - '🌐 Unknown #158'
+  - 1058-trojan-trojan-43128698
+  - '🇸🇬 Singapore #031'
+  - '🌐 Unknown #159'
+  - '🇸🇬 Singapore #032'
+  - 1062-trojan-trojan-25793
+  - 1063-trojan-trojan-38202256
+  - 1064-trojan-trojan-21083348
+  - '🇸🇬 Singapore #033'
+  - 1066-trojan-trojan-40166527
+  - 1067-trojan-trojan-2471814
+  - 1068-trojan-trojan-42900438
+  - '🌐 Unknown #160'
+  - 1070-trojan-trojan-10217058
+  - 1071-trojan-trojan-42909379
+  - 1072-trojan-trojan-29250111
+  - '🇯🇵 Japan #058'
+  - '🇰🇷 South Korea #034'
+  - 1075-trojan-trojan-21083334
+  - '🌐 Unknown #161'
+  - 1077-trojan-trojan-42900383
+  - '🇯🇵 Japan #059'
+  - '🌐 Unknown #162'
+  - '🇰🇷 South Korea #035'
+  - 1081-trojan-trojan-46255305
+  - 1082-trojan-trojan-26489718
+  - 1083-trojan-trojan-21083423
+  - 1084-trojan-trojan-42900384
+  - 1085-trojan-trojan-29250116
+  - 1086-trojan-trojan-21083292
+  - '🌐 Unknown #163'
+  - 1088-trojan-trojan-42860749
+  - 1089-trojan-trojan-38202261
+  - '🇸🇬 Singapore #034'
+  - '🌐 Unknown #164'
+  - 1092-trojan-trojan-25323
+  - 1093-trojan-trojan-43128694
+  - '🇸🇬 Singapore #035'
+  - 1095-trojan-trojan-29250123
+  - 1096-trojan-trojan-43128696
+  - 1097-trojan-trojan-42900475
+  - '🌐 Unknown #165'
+  - 1099-trojan-trojan-10217057
+  - 1100-trojan-trojan-42909382
+  - '🇯🇵 Japan #060'
+  - 1102-trojan-trojan-11952
+  - 1103-trojan-trojan-29250119
+  - 1104-trojan-trojan-33238129
+  type: url-test
+  url: https://www.gstatic.com/generate_204
+- name: select
+  proxies:
+  - auto
+  - '🇺🇸 United States #001'
+  - '🇺🇸 United States #002'
+  - '🇺🇸 United States #003'
+  - 04-hysteria2-hysteria2-5115767
+  - '🇺🇸 United States #004'
+  - '🇺🇸 United States #005'
+  - '🇺🇸 United States #006'
+  - 08-hysteria2-hysteria2-5115766
+  - '🇺🇸 United States #007'
+  - '🇯🇵 Japan #001'
+  - '🇯🇵 Japan #002'
+  - '🇫🇷 France #001'
+  - '🇳🇱 The Netherlands #001'
+  - '🇩🇪 Germany #001'
+  - '🇩🇪 Germany #002'
+  - 16-hysteria2-hysteria2-24902
+  - '🇸🇬 Singapore #001'
+  - '🇸🇬 Singapore #002'
+  - '🇸🇬 Singapore #003'
+  - '🇸🇬 Singapore #004'
+  - 21-hysteria2-hysteria2-48396255
+  - 22-hysteria2-hysteria2-5115795
+  - 23-hysteria2-hysteria2-48396258
+  - '🇸🇬 Singapore #005'
+  - 25-hysteria2-hysteria2-5115765
+  - '🇫🇷 France #002'
+  - '🇷🇺 Russia #001'
+  - '🇹🇼 Taiwan #001'
+  - '🇸🇬 Singapore #006'
+  - '🇸🇬 Singapore #007'
+  - 31-hysteria2-hysteria2-35967863
+  - 32-hysteria2-hysteria2-131172
+  - 33-hysteria2-hysteria2-5115799
+  - '🇦🇹 Austria #001'
+  - 35-hysteria2-hysteria2-145042
+  - '🇸🇬 Singapore #008'
+  - '🇩🇪 Germany #003'
+  - '🇷🇴 Romania #001'
+  - '🇵🇱 Poland #001'
+  - '🇸🇬 Singapore #009'
+  - '🇰🇷 South Korea #001'
+  - '🇭🇰 Hong Kong #001'
+  - '🇺🇸 United States #008'
+  - '🇺🇸 United States #009'
+  - '🇺🇸 United States #010'
+  - '🇺🇸 United States #011'
+  - '🇨🇦 Canada #001'
+  - '🇺🇸 United States #012'
+  - '🇺🇸 United States #013'
+  - '🇨🇦 Canada #002'
+  - 51-shadowsocks-shadowsocks-2536935
+  - '🇺🇸 United States #014'
+  - 53-shadowsocks-shadowsocks-26968
+  - '🇺🇸 United States #015'
+  - 55-shadowsocks-shadowsocks-16135
+  - '🇺🇸 United States #016'
+  - '🇺🇸 United States #017'
+  - '🇺🇸 United States #018'
+  - '🇺🇸 United States #019'
+  - '🇨🇦 Canada #003'
+  - '🇪🇸 Spain #001'
+  - '🇺🇸 United States #020'
+  - '🇬🇧 United Kingdom #001'
+  - '🇬🇧 United Kingdom #002'
+  - '🇬🇧 United Kingdom #003'
+  - '🇬🇧 United Kingdom #004'
+  - '🇺🇸 United States #021'
+  - '🇳🇱 The Netherlands #002'
+  - '🇺🇸 United States #022'
+  - '🇰🇷 South Korea #002'
+  - '🇹🇼 Taiwan #002'
+  - '🇯🇵 Japan #003'
+  - '🇨🇦 Canada #004'
+  - '🇦🇺 Australia #001'
+  - '🇳🇱 The Netherlands #003'
+  - '🇯🇵 Japan #004'
+  - '🇰🇷 South Korea #003'
+  - '🇩🇪 Germany #004'
+  - '🇬🇧 United Kingdom #005'
+  - '🇬🇧 United Kingdom #006'
+  - '🇬🇧 United Kingdom #007'
+  - '🇬🇧 United Kingdom #008'
+  - '🇬🇧 United Kingdom #009'
+  - '🇬🇧 United Kingdom #010'
+  - '🇩🇪 Germany #005'
+  - '🇹🇼 Taiwan #003'
+  - '🇬🇧 United Kingdom #011'
+  - '🇳🇴 Norway #001'
+  - '🇳🇱 The Netherlands #004'
+  - '🇦🇺 Australia #002'
+  - '🇬🇧 United Kingdom #012'
+  - '🇫🇷 France #003'
+  - '🇬🇧 United Kingdom #013'
+  - '🇬🇧 United Kingdom #014'
+  - '🇬🇧 United Kingdom #015'
+  - '🇬🇧 United Kingdom #016'
+  - '🇬🇧 United Kingdom #017'
+  - '🇳🇱 The Netherlands #005'
+  - '🇬🇧 United Kingdom #018'
+  - '🇬🇧 United Kingdom #019'
+  - '🇬🇧 United Kingdom #020'
+  - '🇹🇼 Taiwan #004'
+  - '🇰🇷 South Korea #004'
+  - '🇰🇷 South Korea #005'
+  - '🇰🇷 South Korea #006'
+  - '🇬🇧 United Kingdom #021'
+  - '🇬🇧 United Kingdom #022'
+  - '🇦🇺 Australia #003'
+  - '🇬🇧 United Kingdom #023'
+  - '🇰🇷 South Korea #007'
+  - '🇰🇷 South Korea #008'
+  - '🇰🇷 South Korea #009'
+  - '🇬🇧 United Kingdom #024'
+  - '🇬🇧 United Kingdom #025'
+  - '🇺🇸 United States #023'
+  - '🇭🇰 Hong Kong #002'
+  - '🇬🇧 United Kingdom #026'
+  - '🇰🇷 South Korea #010'
+  - '🇹🇼 Taiwan #005'
+  - '🇬🇧 United Kingdom #027'
+  - '🇬🇧 United Kingdom #028'
+  - '🇬🇧 United Kingdom #029'
+  - '🇩🇪 Germany #006'
+  - '🇬🇧 United Kingdom #030'
+  - '🇭🇰 Hong Kong #003'
+  - '🇬🇧 United Kingdom #031'
+  - '🇬🇧 United Kingdom #032'
+  - '🇩🇪 Germany #007'
+  - '🇺🇸 United States #024'
+  - '🇰🇷 South Korea #011'
+  - '🇬🇧 United Kingdom #033'
+  - '🇯🇵 Japan #005'
+  - '🇳🇱 The Netherlands #006'
+  - '🇬🇧 United Kingdom #034'
+  - '🇬🇧 United Kingdom #035'
+  - '🇰🇷 South Korea #012'
+  - '🇬🇧 United Kingdom #036'
+  - '🇫🇷 France #004'
+  - '🇰🇷 South Korea #013'
+  - 140-shadowsocks-shadowsocks-4892331
+  - 141-shadowsocks-shadowsocks-298
+  - '🇭🇰 Hong Kong #004'
+  - '🇬🇧 United Kingdom #037'
+  - '🇫🇷 France #005'
+  - '🇳🇱 The Netherlands #007'
+  - '🇩🇪 Germany #008'
+  - '🇩🇪 Germany #009'
+  - '🇬🇧 United Kingdom #038'
+  - '🇬🇧 United Kingdom #039'
+  - '🇩🇪 Germany #010'
+  - '🇬🇧 United Kingdom #040'
+  - '🇳🇱 The Netherlands #008'
+  - '🇬🇧 United Kingdom #041'
+  - '🇩🇪 Germany #011'
+  - '🇬🇧 United Kingdom #042'
+  - '🇮🇹 Italy #001'
+  - '🇨🇦 Canada #005'
+  - '🇳🇱 The Netherlands #009'
+  - '🇬🇧 United Kingdom #043'
+  - '🇰🇷 South Korea #014'
+  - '🇬🇧 United Kingdom #044'
+  - '🇨🇭 Switzerland #001'
+  - '🇫🇷 France #006'
+  - '🇺🇸 United States #025'
+  - '🇰🇷 South Korea #015'
+  - '🇪🇸 Spain #002'
+  - '🇬🇧 United Kingdom #045'
+  - '🇬🇧 United Kingdom #046'
+  - '🇸🇬 Singapore #010'
+  - '🇬🇧 United Kingdom #047'
+  - '🇬🇧 United Kingdom #048'
+  - '🇬🇧 United Kingdom #049'
+  - '🇱🇹 Lithuania #001'
+  - '🇰🇷 South Korea #016'
+  - '🇪🇸 Spain #003'
+  - '🇰🇷 South Korea #017'
+  - '🇸🇬 Singapore #011'
+  - '🇧🇪 Belgium #001'
+  - '🇬🇧 United Kingdom #050'
+  - '🇭🇰 Hong Kong #005'
+  - '🇫🇷 France #007'
+  - '🇬🇧 United Kingdom #051'
+  - '🇳🇱 The Netherlands #010'
+  - '🇰🇷 South Korea #018'
+  - '🇨🇭 Switzerland #002'
+  - '🇷🇺 Russia #002'
+  - '🇹🇷 Türkiye #001'
+  - '🇳🇱 The Netherlands #011'
+  - '🇭🇰 Hong Kong #006'
+  - '🇸🇬 Singapore #012'
+  - '🇷🇴 Romania #002'
+  - 192-shadowsocks-shadowsocks-25076
+  - '🇬🇧 United Kingdom #052'
+  - '🇷🇴 Romania #003'
+  - '🇸🇬 Singapore #013'
+  - '🇩🇪 Germany #012'
+  - '🇸🇪 Sweden #001'
+  - '🇳🇱 The Netherlands #012'
+  - '🇷🇺 Russia #003'
+  - '🇮🇷 Iran #001'
+  - '🇺🇸 United States #026'
+  - '🇮🇹 Italy #002'
+  - '🇰🇷 South Korea #019'
+  - '🇬🇧 United Kingdom #053'
+  - '🇵🇱 Poland #002'
+  - '🇩🇪 Germany #013'
+  - '🇬🇧 United Kingdom #054'
+  - 208-shadowsocks-shadowsocks-42860721
+  - '🇹🇷 Türkiye #002'
+  - '🇳🇱 The Netherlands #013'
+  - '🇺🇸 United States #027'
+  - '🇫🇮 Finland #001'
+  - '🇬🇧 United Kingdom #055'
+  - '🇮🇪 Ireland #001'
+  - '🇮🇳 India #001'
+  - '🇮🇳 India #002'
+  - '🇮🇳 India #003'
+  - '🇷🇺 Russia #004'
+  - 219-shadowsocks-shadowsocks-130302
+  - '🇬🇧 United Kingdom #056'
+  - '🇧🇬 Bulgaria #001'
+  - '🇮🇳 India #004'
+  - '🇮🇳 India #005'
+  - 224-shadowsocks-shadowsocks-290
+  - '🇿🇦 South Africa #001'
+  - '🇬🇧 United Kingdom #057'
+  - '🇺🇸 United States #028'
+  - '🇿🇦 South Africa #002'
+  - '🇬🇧 United Kingdom #058'
+  - '🇫🇷 France #008'
+  - '🇬🇧 United Kingdom #059'
+  - '🇬🇧 United Kingdom #060'
+  - '🇫🇷 France #009'
+  - 234-shadowsocks-shadowsocks-19056434
+  - '🇸🇦 Saudi Arabia #001'
+  - '🇮🇳 India #006'
+  - '🇬🇧 United Kingdom #061'
+  - '🇮🇳 India #007'
+  - '🇬🇧 United Kingdom #062'
+  - '🇬🇧 United Kingdom #063'
+  - '🇬🇧 United Kingdom #064'
+  - '🇬🇧 United Kingdom #065'
+  - '🇬🇧 United Kingdom #066'
+  - '🇬🇧 United Kingdom #067'
+  - '🇬🇧 United Kingdom #068'
+  - 246-shadowsocks-shadowsocks-216
+  - '🇩🇪 Germany #014'
+  - '🇨🇿 Czechia #001'
+  - '🇺🇸 United States #029'
+  - '🇫🇷 France #010'
+  - '🇫🇷 France #011'
+  - '🇳🇱 The Netherlands #014'
+  - 253-shadowsocks-shadowsocks-10809794
+  - '🇬🇧 United Kingdom #069'
+  - '🇬🇧 United Kingdom #070'
+  - '🇺🇸 United States #030'
+  - '🇺🇸 United States #031'
+  - '🇺🇸 United States #032'
+  - '🇺🇸 United States #033'
+  - 260-trojan-trojan-17354
+  - '🇺🇸 United States #034'
+  - '🇺🇸 United States #035'
+  - '🇺🇸 United States #036'
+  - '🇺🇸 United States #037'
+  - '🇺🇸 United States #038'
+  - '🇺🇸 United States #039'
+  - '🇺🇸 United States #040'
+  - '🇺🇸 United States #041'
+  - 269-trojan-trojan-48430242
+  - 270-trojan-trojan-48429242
+  - '🇺🇸 United States #042'
+  - 272-trojan-trojan-50669626
+  - '🇺🇸 United States #043'
+  - 274-trojan-trojan-40158526
+  - '🇺🇸 United States #044'
+  - '🇺🇸 United States #045'
+  - 277-trojan-trojan-42902389
+  - '🇺🇸 United States #046'
+  - 279-trojan-trojan-50669627
+  - 280-trojan-trojan-50669629
+  - 281-trojan-trojan-45900511
+  - 282-trojan-trojan-45672610
+  - 283-trojan-trojan-42901377
+  - 284-trojan-trojan-2520862
+  - 285-trojan-trojan-50669625
+  - '🇺🇸 United States #047'
+  - 287-trojan-trojan-38202174
+  - '🇺🇸 United States #048'
+  - 289-trojan-trojan-35967886
+  - 290-trojan-trojan-2520864
+  - 291-trojan-trojan-48438276
+  - 292-trojan-trojan-21083429
+  - 293-trojan-trojan-42901378
+  - '🌐 Unknown #001'
+  - 295-trojan-trojan-35967889
+  - '🇺🇸 United States #049'
+  - 297-trojan-trojan-2520863
+  - 298-trojan-trojan-42900479
+  - 299-trojan-trojan-35967894
+  - 300-trojan-trojan-35967892
+  - 301-trojan-trojan-29217052
+  - 302-trojan-trojan-26489730
+  - 303-trojan-trojan-40166536
+  - 304-trojan-trojan-143578
+  - '🌐 Unknown #002'
+  - '🌐 Unknown #003'
+  - '🌐 Unknown #004'
+  - '🌐 Unknown #005'
+  - '🇯🇵 Japan #006'
+  - 310-trojan-trojan-2501789
+  - '🇯🇵 Japan #007'
+  - '🇯🇵 Japan #008'
+  - '🌐 Unknown #006'
+  - '🌐 Unknown #007'
+  - '🌐 Unknown #008'
+  - '🌐 Unknown #009'
+  - '🌐 Unknown #010'
+  - 318-trojan-trojan-120093
+  - '🌐 Unknown #011'
+  - '🌐 Unknown #012'
+  - '🌐 Unknown #013'
+  - '🌐 Unknown #014'
+  - '🌐 Unknown #015'
+  - 324-trojan-trojan-12777689
+  - '🇯🇵 Japan #009'
+  - 326-trojan-trojan-37422025
+  - '🇯🇵 Japan #010'
+  - '🌐 Unknown #016'
+  - '🇯🇵 Japan #011'
+  - '🌐 Unknown #017'
+  - '🌐 Unknown #018'
+  - '🌐 Unknown #019'
+  - '🇮🇳 India #008'
+  - '🌐 Unknown #020'
+  - '🌐 Unknown #021'
+  - '🇯🇵 Japan #012'
+  - '🌐 Unknown #022'
+  - '🌐 Unknown #023'
+  - '🌐 Unknown #024'
+  - 340-trojan-trojan-11309697
+  - 341-trojan-trojan-31967697
+  - 342-trojan-trojan-12776688
+  - '🌐 Unknown #025'
+  - 344-trojan-trojan-160
+  - '🌐 Unknown #026'
+  - '🇯🇵 Japan #013'
+  - 347-trojan-trojan-38202195
+  - 348-trojan-trojan-34919075
+  - '🌐 Unknown #027'
+  - '🌐 Unknown #028'
+  - '🌐 Unknown #029'
+  - '🌐 Unknown #030'
+  - '🌐 Unknown #031'
+  - '🌐 Unknown #032'
+  - '🌐 Unknown #033'
+  - '🌐 Unknown #034'
+  - 357-trojan-trojan-34919048
+  - '🌐 Unknown #035'
+  - 359-trojan-trojan-12250464
+  - 360-trojan-trojan-26489690
+  - '🌐 Unknown #036'
+  - '🌐 Unknown #037'
+  - '🌐 Unknown #038'
+  - 364-trojan-trojan-12778684
+  - '🌐 Unknown #039'
+  - '🌐 Unknown #040'
+  - 367-trojan-trojan-12778671
+  - '🌐 Unknown #041'
+  - 369-trojan-trojan-4821867
+  - '🌐 Unknown #042'
+  - 371-trojan-trojan-40166526
+  - '🇯🇵 Japan #014'
+  - 373-trojan-trojan-34919079
+  - '🌐 Unknown #043'
+  - 375-trojan-trojan-38202189
+  - '🌐 Unknown #044'
+  - '🌐 Unknown #045'
+  - '🌐 Unknown #046'
+  - 379-trojan-trojan-26489693
+  - 380-trojan-trojan-29217029
+  - 381-trojan-trojan-34919081
+  - '🇯🇵 Japan #015'
+  - 383-trojan-trojan-29217030
+  - '🌐 Unknown #047'
+  - 385-trojan-trojan-10217061
+  - '🇯🇵 Japan #016'
+  - 387-trojan-trojan-15666830
+  - 388-trojan-trojan-29217031
+  - 389-trojan-trojan-34919065
+  - '🌐 Unknown #048'
+  - 391-trojan-trojan-15666834
+  - 392-trojan-trojan-15666835
+  - 393-trojan-trojan-34919053
+  - 394-trojan-trojan-12776694
+  - 395-trojan-trojan-12776693
+  - 396-trojan-trojan-26489698
+  - '🇯🇵 Japan #017'
+  - '🌐 Unknown #049'
+  - 399-trojan-trojan-15673822
+  - 400-trojan-trojan-34919084
+  - '🌐 Unknown #050'
+  - 402-trojan-trojan-29250121
+  - '🌐 Unknown #051'
+  - '🌐 Unknown #052'
+  - '🌐 Unknown #053'
+  - '🌐 Unknown #054'
+  - 407-trojan-trojan-10217056
+  - '🌐 Unknown #055'
+  - '🌐 Unknown #056'
+  - 410-trojan-trojan-29217028
+  - 411-trojan-trojan-37647476
+  - '🌐 Unknown #057'
+  - 413-trojan-trojan-34919047
+  - '🇯🇵 Japan #018'
+  - '🌐 Unknown #058'
+  - '🇯🇵 Japan #019'
+  - '🌐 Unknown #059'
+  - 418-trojan-trojan-26489700
+  - '🌐 Unknown #060'
+  - 420-trojan-trojan-26489696
+  - 421-trojan-trojan-34919043
+  - 422-trojan-trojan-26489694
+  - 423-trojan-trojan-38202227
+  - 424-trojan-trojan-15666839
+  - 425-trojan-trojan-34919082
+  - '🌐 Unknown #061'
+  - '🇮🇪 Ireland #002'
+  - 428-trojan-trojan-34919041
+  - '🌐 Unknown #062'
+  - 430-trojan-trojan-34919067
+  - 431-trojan-trojan-2501800
+  - 432-trojan-trojan-34919093
+  - '🇮🇪 Ireland #003'
+  - '🇮🇪 Ireland #004'
+  - '🇮🇪 Ireland #005'
+  - 436-trojan-trojan-38202223
+  - 437-trojan-trojan-34919062
+  - 438-trojan-trojan-38202219
+  - '🌐 Unknown #063'
+  - 440-trojan-trojan-50669787
+  - '🌐 Unknown #064'
+  - 442-trojan-trojan-2522928
+  - '🇮🇪 Ireland #006'
+  - 444-trojan-trojan-37431024
+  - '🇮🇪 Ireland #007'
+  - 446-trojan-trojan-48438261
+  - '🌐 Unknown #065'
+  - 448-trojan-trojan-10217051
+  - '🌐 Unknown #066'
+  - 450-trojan-trojan-2522933
+  - 451-trojan-trojan-2522932
+  - 452-trojan-trojan-34919068
+  - 453-trojan-trojan-31975698
+  - 454-trojan-trojan-50669791
+  - '🌐 Unknown #067'
+  - 456-trojan-trojan-42900481
+  - 457-trojan-trojan-12860559
+  - '🇮🇪 Ireland #008'
+  - '🇮🇪 Ireland #009'
+  - 460-trojan-trojan-46253307
+  - '🇮🇪 Ireland #010'
+  - '🇮🇪 Ireland #011'
+  - 463-trojan-trojan-34919071
+  - '🇮🇪 Ireland #012'
+  - 465-trojan-trojan-111461
+  - '🇮🇪 Ireland #013'
+  - 467-trojan-trojan-51221394
+  - '🇯🇵 Japan #020'
+  - 469-trojan-trojan-2522931
+  - 470-trojan-trojan-34919056
+  - 471-trojan-trojan-38202197
+  - 472-trojan-trojan-50669786
+  - 473-trojan-trojan-46255309
+  - 474-trojan-trojan-34701903
+  - 475-trojan-trojan-48438263
+  - '🇯🇵 Japan #021'
+  - 477-trojan-trojan-46254303
+  - 478-trojan-trojan-50669793
+  - '🇯🇵 Japan #022'
+  - 480-trojan-trojan-51221400
+  - 481-trojan-trojan-2522930
+  - 482-trojan-trojan-2522937
+  - 483-trojan-trojan-40384434
+  - 484-trojan-trojan-29258108
+  - 485-trojan-trojan-50669788
+  - 486-trojan-trojan-49030874
+  - 487-trojan-trojan-2522936
+  - 488-trojan-trojan-46255310
+  - '🇯🇵 Japan #023'
+  - '🇫🇷 France #012'
+  - 491-trojan-trojan-42900429
+  - '🇫🇷 France #013'
+  - 493-trojan-trojan-50669780
+  - 494-trojan-trojan-31975699
+  - '🌐 Unknown #068'
+  - 496-trojan-trojan-48438259
+  - 497-trojan-trojan-33238114
+  - 498-trojan-trojan-38202175
+  - 499-trojan-trojan-49030883
+  - 500-trojan-trojan-42909391
+  - 501-trojan-trojan-42909397
+  - 502-trojan-trojan-38202200
+  - '🇯🇵 Japan #024'
+  - 504-trojan-trojan-50669781
+  - 505-trojan-trojan-46255306
+  - 506-trojan-trojan-38202207
+  - '🇯🇵 Japan #025'
+  - '🇩🇪 Germany #015'
+  - 509-trojan-trojan-48438260
+  - '🇳🇱 The Netherlands #015'
+  - '🇳🇱 The Netherlands #016'
+  - 512-trojan-trojan-143555
+  - 513-trojan-trojan-50669615
+  - '🇳🇱 The Netherlands #017'
+  - '🇩🇪 Germany #016'
+  - '🇳🇱 The Netherlands #018'
+  - 517-trojan-trojan-42900478
+  - 518-trojan-trojan-38202237
+  - '🇩🇪 Germany #017'
+  - '🇳🇱 The Netherlands #019'
+  - 521-trojan-trojan-34693906
+  - 522-trojan-trojan-46470216
+  - 523-trojan-trojan-27054
+  - '🇳🇱 The Netherlands #020'
+  - 525-trojan-trojan-34919087
+  - '🇩🇪 Germany #018'
+  - '🇩🇪 Germany #019'
+  - '🇩🇪 Germany #020'
+  - 529-trojan-trojan-38202220
+  - '🇺🇸 United States #050'
+  - 531-trojan-trojan-50669611
+  - '🇩🇪 Germany #021'
+  - '🇦🇺 Australia #004'
+  - '🇦🇺 Australia #005'
+  - '🇳🇱 The Netherlands #021'
+  - 536-trojan-trojan-48438275
+  - '🇦🇺 Australia #006'
+  - '🇦🇺 Australia #007'
+  - '🇳🇱 The Netherlands #022'
+  - 540-trojan-trojan-35027316
+  - '🇩🇪 Germany #022'
+  - 542-trojan-trojan-45680652
+  - 543-trojan-trojan-2503777
+  - '🇯🇵 Japan #026'
+  - '🇦🇺 Australia #008'
+  - '🇯🇵 Japan #027'
+  - 547-trojan-trojan-34701904
+  - 548-trojan-trojan-16137
+  - '🇯🇵 Japan #028'
+  - 550-trojan-trojan-121349
+  - 551-trojan-trojan-42900441
+  - '🇦🇺 Australia #009'
+  - 553-trojan-trojan-50669614
+  - '🇦🇺 Australia #010'
+  - '🇯🇵 Japan #029'
+  - 556-trojan-trojan-29217018
+  - '🇦🇺 Australia #011'
+  - 558-trojan-trojan-45680640
+  - 559-trojan-trojan-11309692
+  - '🇰🇷 South Korea #020'
+  - '🇩🇪 Germany #023'
+  - 562-trojan-trojan-34695904
+  - '🇩🇪 Germany #024'
+  - '🇩🇪 Germany #025'
+  - 565-trojan-trojan-2503798
+  - 566-trojan-trojan-21084285
+  - 567-trojan-trojan-45680653
+  - 568-trojan-trojan-48431241
+  - 569-trojan-trojan-2503778
+  - 570-trojan-trojan-5155760
+  - 571-trojan-trojan-11309698
+  - 572-trojan-trojan-33238095
+  - '🇩🇪 Germany #026'
+  - 574-trojan-trojan-29260111
+  - 575-trojan-trojan-45673610
+  - '🇩🇪 Germany #027'
+  - 577-trojan-trojan-40158527
+  - 578-trojan-trojan-50669794
+  - 579-trojan-trojan-23749945
+  - '🇩🇪 Germany #028'
+  - 581-trojan-trojan-48440241
+  - 582-trojan-trojan-48438258
+  - 583-trojan-trojan-34693973
+  - 584-trojan-trojan-198
+  - 585-trojan-trojan-43490274
+  - 586-trojan-trojan-10089396
+  - '🇯🇵 Japan #030'
+  - 588-trojan-trojan-50669623
+  - 589-trojan-trojan-23750901
+  - 590-trojan-trojan-16139
+  - 591-trojan-trojan-38202228
+  - '🇯🇵 Japan #031'
+  - 593-trojan-trojan-21093285
+  - 594-trojan-trojan-51444479
+  - 595-trojan-trojan-26534141
+  - 596-trojan-trojan-27074
+  - 597-trojan-trojan-27009
+  - 598-trojan-trojan-15676821
+  - 599-trojan-trojan-48441240
+  - 600-trojan-trojan-51221413
+  - '🇩🇪 Germany #029'
+  - 602-trojan-trojan-42909388
+  - 603-trojan-trojan-50669622
+  - 604-trojan-trojan-27021
+  - '🇩🇪 Germany #030'
+  - 606-trojan-trojan-31975696
+  - 607-trojan-trojan-29258107
+  - '🇩🇪 Germany #031'
+  - 609-trojan-trojan-15676822
+  - 610-trojan-trojan-26489684
+  - '🌐 Unknown #069'
+  - '🌐 Unknown #070'
+  - '🇯🇵 Japan #032'
+  - 614-trojan-trojan-12839566
+  - 615-trojan-trojan-42909389
+  - 616-trojan-trojan-25994257
+  - '🇩🇪 Germany #032'
+  - 618-trojan-trojan-50669783
+  - 619-trojan-trojan-4821840
+  - 620-trojan-trojan-23759901
+  - 621-trojan-trojan-38202183
+  - 622-trojan-trojan-27015
+  - 623-trojan-trojan-27075
+  - 624-trojan-trojan-46253306
+  - 625-trojan-trojan-50669795
+  - 626-trojan-trojan-38202231
+  - 627-trojan-trojan-42900477
+  - 628-trojan-trojan-27029
+  - 629-trojan-trojan-27016
+  - '🇩🇪 Germany #033'
+  - '🇯🇵 Japan #033'
+  - '🇨🇭 Switzerland #003'
+  - '🇯🇵 Japan #034'
+  - '🇰🇷 South Korea #021'
+  - '🇰🇷 South Korea #022'
+  - 636-trojan-trojan-42911380
+  - 637-trojan-trojan-27002
+  - '🇯🇵 Japan #035'
+  - 639-trojan-trojan-33238105
+  - '🌐 Unknown #071'
+  - '🇯🇵 Japan #036'
+  - 642-trojan-trojan-27014
+  - 643-trojan-trojan-27010
+  - '🇯🇵 Japan #037'
+  - 645-trojan-trojan-51444474
+  - 646-trojan-trojan-40166535
+  - 647-trojan-trojan-38202191
+  - 648-trojan-trojan-2509758
+  - 649-trojan-trojan-48447240
+  - '🌐 Unknown #072'
+  - 651-trojan-trojan-34703904
+  - 652-trojan-trojan-27018
+  - '🌐 Unknown #073'
+  - '🇩🇪 Germany #034'
+  - '🌐 Unknown #074'
+  - '🌐 Unknown #075'
+  - '🌐 Unknown #076'
+  - '🇯🇵 Japan #038'
+  - '🌐 Unknown #077'
+  - '🌐 Unknown #078'
+  - 661-trojan-trojan-2509750
+  - '🌐 Unknown #079'
+  - 663-trojan-trojan-250
+  - 664-trojan-trojan-18389420
+  - 665-trojan-trojan-38202165
+  - '🌐 Unknown #080'
+  - '🌐 Unknown #081'
+  - '🌐 Unknown #082'
+  - 669-trojan-trojan-38202163
+  - 670-trojan-trojan-145230
+  - '🇰🇷 South Korea #023'
+  - '🌐 Unknown #083'
+  - '🌐 Unknown #084'
+  - 674-trojan-trojan-49030904
+  - 675-trojan-trojan-256
+  - 676-trojan-trojan-27017
+  - '🌐 Unknown #085'
+  - 678-trojan-trojan-12250474
+  - 679-trojan-trojan-27007
+  - 680-trojan-trojan-42900433
+  - 681-trojan-trojan-12250477
+  - '🇯🇵 Japan #039'
+  - '🌐 Unknown #086'
+  - '🌐 Unknown #087'
+  - 685-trojan-trojan-27020
+  - '🌐 Unknown #088'
+  - '🌐 Unknown #089'
+  - 688-trojan-trojan-11650
+  - 689-trojan-trojan-10217064
+  - 690-trojan-trojan-46253303
+  - 691-trojan-trojan-42902382
+  - 692-trojan-trojan-27012
+  - '🌐 Unknown #090'
+  - 694-trojan-trojan-46253305
+  - 695-trojan-trojan-12250476
+  - 696-trojan-trojan-10217045
+  - '🌐 Unknown #091'
+  - 698-trojan-trojan-29250107
+  - 699-trojan-trojan-23765902
+  - '🌐 Unknown #092'
+  - '🌐 Unknown #093'
+  - 702-trojan-trojan-26541141
+  - 703-trojan-trojan-27011
+  - 704-trojan-trojan-2509763
+  - '🇰🇷 South Korea #024'
+  - 706-trojan-trojan-15666842
+  - '🌐 Unknown #094'
+  - 708-trojan-trojan-34919045
+  - 709-trojan-trojan-10217063
+  - 710-trojan-trojan-27001
+  - 711-trojan-trojan-12250478
+  - 712-trojan-trojan-45680635
+  - '🌐 Unknown #095'
+  - 714-trojan-trojan-15666838
+  - '🌐 Unknown #096'
+  - 716-trojan-trojan-4821839
+  - 717-trojan-trojan-5161760
+  - 718-trojan-trojan-2509756
+  - 719-trojan-trojan-15666827
+  - 720-trojan-trojan-34693947
+  - '🌐 Unknown #097'
+  - 722-trojan-trojan-38202271
+  - '🇰🇷 South Korea #025'
+  - '🌐 Unknown #098'
+  - 725-trojan-trojan-12250468
+  - 726-trojan-trojan-10217062
+  - 727-trojan-trojan-43237313
+  - 728-trojan-trojan-15666822
+  - 729-trojan-trojan-15666831
+  - 730-trojan-trojan-38202204
+  - '🌐 Unknown #099'
+  - 732-trojan-trojan-10217050
+  - 733-trojan-trojan-21084286
+  - 734-trojan-trojan-50669784
+  - 735-trojan-trojan-15666826
+  - 736-trojan-trojan-12250485
+  - 737-trojan-trojan-10217046
+  - 738-trojan-trojan-10217041
+  - 739-trojan-trojan-15666821
+  - 740-trojan-trojan-38202283
+  - 741-trojan-trojan-38202235
+  - 742-trojan-trojan-10217047
+  - 743-trojan-trojan-12250470
+  - 744-trojan-trojan-34693963
+  - 745-trojan-trojan-10217049
+  - 746-trojan-trojan-10217054
+  - '🌐 Unknown #100'
+  - 748-trojan-trojan-21083325
+  - 749-trojan-trojan-34919089
+  - 750-trojan-trojan-38202273
+  - '🌐 Unknown #101'
+  - '🌐 Unknown #102'
+  - 753-trojan-trojan-15666841
+  - '🌐 Unknown #103'
+  - 755-trojan-trojan-51753352
+  - 756-trojan-trojan-12250469
+  - 757-trojan-trojan-38202238
+  - 758-trojan-trojan-12250472
+  - 759-trojan-trojan-38202277
+  - 760-trojan-trojan-40166533
+  - 761-trojan-trojan-15666824
+  - 762-trojan-trojan-34919086
+  - 763-trojan-trojan-15666820
+  - 764-trojan-trojan-38202268
+  - 765-trojan-trojan-29267107
+  - '🇮🇪 Ireland #014'
+  - 767-trojan-trojan-46255303
+  - 768-trojan-trojan-42900445
+  - 769-trojan-trojan-26750797
+  - 770-trojan-trojan-10217052
+  - '🇭🇰 Hong Kong #007'
+  - 772-trojan-trojan-10217043
+  - 773-trojan-trojan-4821844
+  - '🌐 Unknown #104'
+  - 775-trojan-trojan-10217060
+  - 776-trojan-trojan-26489681
+  - 777-trojan-trojan-34693954
+  - 778-trojan-trojan-42909383
+  - 779-trojan-trojan-38202279
+  - '🇮🇪 Ireland #015'
+  - 781-trojan-trojan-27305069
+  - '🌐 Unknown #105'
+  - 783-trojan-trojan-11309689
+  - '🌐 Unknown #106'
+  - 785-trojan-trojan-38202275
+  - 786-trojan-trojan-15666823
+  - '🌐 Unknown #107'
+  - 788-trojan-trojan-46254313
+  - '🌐 Unknown #108'
+  - '🇰🇷 South Korea #026'
+  - 791-trojan-trojan-38202272
+  - 792-trojan-trojan-38202202
+  - 793-trojan-trojan-46254306
+  - 794-trojan-trojan-38202201
+  - 795-trojan-trojan-12250467
+  - 796-trojan-trojan-21083326
+  - 797-trojan-trojan-21083321
+  - 798-trojan-trojan-10217044
+  - 799-trojan-trojan-34919092
+  - 800-trojan-trojan-145253
+  - 801-trojan-trojan-38202276
+  - 802-trojan-trojan-21083296
+  - 803-trojan-trojan-10217053
+  - '🇫🇷 France #014'
+  - 805-trojan-trojan-38202212
+  - 806-trojan-trojan-42900407
+  - 807-trojan-trojan-38202199
+  - 808-trojan-trojan-34919094
+  - 809-trojan-trojan-40166534
+  - '🇯🇵 Japan #040'
+  - 811-trojan-trojan-35268089
+  - '🇯🇵 Japan #041'
+  - 813-trojan-trojan-34693984
+  - 814-trojan-trojan-34919085
+  - 815-trojan-trojan-34693921
+  - 816-trojan-trojan-42900377
+  - 817-trojan-trojan-2471780
+  - 818-trojan-trojan-34695907
+  - '🇯🇵 Japan #042'
+  - '🌐 Unknown #109'
+  - '🇯🇵 Japan #043'
+  - 822-trojan-trojan-38202198
+  - 823-trojan-trojan-38202270
+  - 824-trojan-trojan-18372421
+  - 825-trojan-trojan-2471779
+  - 826-trojan-trojan-42900401
+  - '🇯🇵 Japan #044'
+  - 828-trojan-trojan-34693983
+  - '🇯🇵 Japan #045'
+  - '🇵🇱 Poland #003'
+  - '🇯🇵 Japan #046'
+  - 832-trojan-trojan-38202194
+  - 833-trojan-trojan-5155761
+  - 834-trojan-trojan-34693923
+  - 835-trojan-trojan-38202205
+  - '🌐 Unknown #110'
+  - 837-trojan-trojan-42900389
+  - '🇵🇱 Poland #004'
+  - 839-trojan-trojan-199
+  - '🇩🇪 Germany #035'
+  - 841-trojan-trojan-42900430
+  - '🇵🇱 Poland #005'
+  - '🇨🇭 Switzerland #004'
+  - 844-trojan-trojan-38202209
+  - '🇯🇵 Japan #047'
+  - 846-trojan-trojan-24339
+  - '🌐 Unknown #111'
+  - '🇵🇱 Poland #006'
+  - '🇵🇱 Poland #007'
+  - '🇵🇱 Poland #008'
+  - '🇯🇵 Japan #048'
+  - 852-trojan-trojan-191
+  - 853-trojan-trojan-16138
+  - 854-trojan-trojan-38202281
+  - '🇯🇵 Japan #049'
+  - 856-trojan-trojan-42900405
+  - 857-trojan-trojan-38202232
+  - '🌐 Unknown #112'
+  - 859-trojan-trojan-34919090
+  - '🌐 Unknown #113'
+  - 861-trojan-trojan-38202266
+  - '🌐 Unknown #114'
+  - 863-trojan-trojan-2503775
+  - '🇵🇱 Poland #009'
+  - 865-trojan-trojan-38202222
+  - 866-trojan-trojan-50669725
+  - 867-trojan-trojan-4821846
+  - '🌐 Unknown #115'
+  - 869-trojan-trojan-50669727
+  - 870-trojan-trojan-34693975
+  - '🇵🇱 Poland #010'
+  - 872-trojan-trojan-2501825
+  - 873-trojan-trojan-38202192
+  - 874-trojan-trojan-31969698
+  - 875-trojan-trojan-34693982
+  - 876-trojan-trojan-38202225
+  - 877-trojan-trojan-35967876
+  - '🇭🇺 Hungary #001'
+  - '🇯🇵 Japan #050'
+  - '🇨🇭 Switzerland #005'
+  - 881-trojan-trojan-38202208
+  - 882-trojan-trojan-50669726
+  - '🌐 Unknown #116'
+  - 884-trojan-trojan-46254308
+  - 885-trojan-trojan-38202274
+  - 886-trojan-trojan-2503878
+  - 887-trojan-trojan-34693966
+  - '🌐 Unknown #117'
+  - 889-trojan-trojan-25994261
+  - '🇯🇵 Japan #051'
+  - 891-trojan-trojan-2501824
+  - 892-trojan-trojan-42900421
+  - 893-trojan-trojan-35967875
+  - 894-trojan-trojan-26745
+  - '🌐 Unknown #118'
+  - 896-trojan-trojan-51215385
+  - '🇵🇱 Poland #011'
+  - '🇺🇸 United States #051'
+  - 899-trojan-trojan-11309699
+  - 900-trojan-trojan-34695906
+  - 901-trojan-trojan-34693911
+  - 902-trojan-trojan-38202188
+  - 903-trojan-trojan-50669721
+  - 904-trojan-trojan-38202229
+  - 905-trojan-trojan-2514925
+  - 906-trojan-trojan-38202230
+  - 907-trojan-trojan-38202187
+  - '🌐 Unknown #119'
+  - 909-trojan-trojan-38202180
+  - 910-trojan-trojan-38202263
+  - '🇯🇵 Japan #052'
+  - 912-trojan-trojan-38202196
+  - 913-trojan-trojan-37428022
+  - 914-trojan-trojan-34701906
+  - '🌐 Unknown #120'
+  - 916-trojan-trojan-50669722
+  - 917-trojan-trojan-42902386
+  - '🌐 Unknown #121'
+  - 919-trojan-trojan-42900444
+  - '🇯🇵 Japan #053'
+  - 921-trojan-trojan-34693958
+  - 922-trojan-trojan-38202206
+  - '🇯🇵 Japan #054'
+  - '🇰🇷 South Korea #027'
+  - 925-trojan-trojan-145249
+  - 926-trojan-trojan-2516823
+  - 927-trojan-trojan-38202217
+  - '🇯🇵 Japan #055'
+  - 929-trojan-trojan-34695909
+  - 930-trojan-trojan-24448
+  - 931-trojan-trojan-11906
+  - 932-trojan-trojan-34693931
+  - 933-trojan-trojan-42909392
+  - '🇸🇨 Seychelles #001'
+  - '🌐 Unknown #122'
+  - '🇯🇵 Japan #056'
+  - 937-trojan-trojan-38202267
+  - '🇰🇷 South Korea #028'
+  - 939-trojan-trojan-38202210
+  - 940-trojan-trojan-2515946
+  - '🇵🇱 Poland #012'
+  - '🌐 Unknown #123'
+  - '🇰🇷 South Korea #029'
+  - 944-trojan-trojan-11951
+  - 945-trojan-trojan-16429
+  - 946-trojan-trojan-42909394
+  - '🇬🇧 United Kingdom #071'
+  - 948-trojan-trojan-42900404
+  - 949-trojan-trojan-50669724
+  - '🌐 Unknown #124'
+  - '🌐 Unknown #125'
+  - '🇬🇧 United Kingdom #072'
+  - '🌐 Unknown #126'
+  - '🌐 Unknown #127'
+  - 955-trojan-trojan-11949
+  - '🌐 Unknown #128'
+  - 957-trojan-trojan-42900419
+  - 958-trojan-trojan-42900392
+  - 959-trojan-trojan-38202193
+  - '🇸🇬 Singapore #014'
+  - '🇸🇬 Singapore #015'
+  - '🇰🇷 South Korea #030'
+  - '🇸🇬 Singapore #016'
+  - 964-trojan-trojan-43128695
+  - '🇸🇨 Seychelles #002'
+  - '🇸🇬 Singapore #017'
+  - '🌐 Unknown #129'
+  - '🌐 Unknown #130'
+  - 969-trojan-trojan-34693959
+  - '🌐 Unknown #131'
+  - '🌐 Unknown #132'
+  - 972-trojan-trojan-21083338
+  - 973-trojan-trojan-42902387
+  - '🇸🇬 Singapore #018'
+  - '🇸🇬 Singapore #019'
+  - '🌐 Unknown #133'
+  - 977-trojan-trojan-42900406
+  - '🌐 Unknown #134'
+  - '🇸🇬 Singapore #020'
+  - '🇸🇬 Singapore #021'
+  - '🌐 Unknown #135'
+  - '🌐 Unknown #136'
+  - '🌐 Unknown #137'
+  - '🌐 Unknown #138'
+  - 985-trojan-trojan-15957314
+  - '🌐 Unknown #139'
+  - 987-trojan-trojan-43128697
+  - '🇰🇷 South Korea #031'
+  - '🌐 Unknown #140'
+  - '🌐 Unknown #141'
+  - 991-trojan-trojan-21083322
+  - '🌐 Unknown #142'
+  - '🌐 Unknown #143'
+  - 994-trojan-trojan-21083428
+  - '🇸🇬 Singapore #022'
+  - '🌐 Unknown #144'
+  - '🌐 Unknown #145'
+  - '🇸🇬 Singapore #023'
+  - '🌐 Unknown #146'
+  - '🌐 Unknown #147'
+  - 1001-trojan-trojan-43128686
+  - '🌐 Unknown #148'
+  - 1003-trojan-trojan-43128701
+  - 1004-trojan-trojan-15666833
+  - 1005-trojan-trojan-21083354
+  - '🇸🇬 Singapore #024'
+  - '🇸🇬 Singapore #025'
+  - '🇸🇬 Singapore #026'
+  - 1009-trojan-trojan-26489729
+  - '🇸🇬 Singapore #027'
+  - '🌐 Unknown #149'
+  - '🇯🇵 Japan #057'
+  - 1013-trojan-trojan-43128703
+  - 1014-trojan-trojan-43128689
+  - '🌐 Unknown #150'
+  - 1016-trojan-trojan-43128687
+  - '🌐 Unknown #151'
+  - '🌐 Unknown #152'
+  - '🌐 Unknown #153'
+  - 1020-trojan-trojan-43128692
+  - '🇸🇬 Singapore #028'
+  - '🇸🇬 Singapore #029'
+  - 1023-trojan-trojan-26534142
+  - 1024-trojan-trojan-12250483
+  - '🌐 Unknown #154'
+  - '🌐 Unknown #155'
+  - 1027-trojan-trojan-29217045
+  - 1028-trojan-trojan-16151
+  - 1029-trojan-trojan-31967696
+  - 1030-trojan-trojan-42900436
+  - 1031-trojan-trojan-29217044
+  - 1032-trojan-trojan-2519860
+  - 1033-trojan-trojan-24693
+  - '🌐 Unknown #156'
+  - 1035-trojan-trojan-21083424
+  - 1036-trojan-trojan-33238128
+  - 1037-trojan-trojan-43128688
+  - 1038-trojan-trojan-26489726
+  - 1039-trojan-trojan-43128691
+  - '🇰🇷 South Korea #032'
+  - 1041-trojan-trojan-15666837
+  - 1042-trojan-trojan-21083293
+  - 1043-trojan-trojan-21083333
+  - 1044-trojan-trojan-42900473
+  - '🇸🇬 Singapore #030'
+  - 1046-trojan-trojan-29250115
+  - 1047-trojan-trojan-26489724
+  - 1048-trojan-trojan-42900417
+  - 1049-trojan-trojan-21083350
+  - 1050-trojan-trojan-2520744
+  - 1051-trojan-trojan-38202214
+  - '🌐 Unknown #157'
+  - 1053-trojan-trojan-38202226
+  - 1054-trojan-trojan-15666836
+  - '🇰🇷 South Korea #033'
+  - 1056-trojan-trojan-26489712
+  - '🌐 Unknown #158'
+  - 1058-trojan-trojan-43128698
+  - '🇸🇬 Singapore #031'
+  - '🌐 Unknown #159'
+  - '🇸🇬 Singapore #032'
+  - 1062-trojan-trojan-25793
+  - 1063-trojan-trojan-38202256
+  - 1064-trojan-trojan-21083348
+  - '🇸🇬 Singapore #033'
+  - 1066-trojan-trojan-40166527
+  - 1067-trojan-trojan-2471814
+  - 1068-trojan-trojan-42900438
+  - '🌐 Unknown #160'
+  - 1070-trojan-trojan-10217058
+  - 1071-trojan-trojan-42909379
+  - 1072-trojan-trojan-29250111
+  - '🇯🇵 Japan #058'
+  - '🇰🇷 South Korea #034'
+  - 1075-trojan-trojan-21083334
+  - '🌐 Unknown #161'
+  - 1077-trojan-trojan-42900383
+  - '🇯🇵 Japan #059'
+  - '🌐 Unknown #162'
+  - '🇰🇷 South Korea #035'
+  - 1081-trojan-trojan-46255305
+  - 1082-trojan-trojan-26489718
+  - 1083-trojan-trojan-21083423
+  - 1084-trojan-trojan-42900384
+  - 1085-trojan-trojan-29250116
+  - 1086-trojan-trojan-21083292
+  - '🌐 Unknown #163'
+  - 1088-trojan-trojan-42860749
+  - 1089-trojan-trojan-38202261
+  - '🇸🇬 Singapore #034'
+  - '🌐 Unknown #164'
+  - 1092-trojan-trojan-25323
+  - 1093-trojan-trojan-43128694
+  - '🇸🇬 Singapore #035'
+  - 1095-trojan-trojan-29250123
+  - 1096-trojan-trojan-43128696
+  - 1097-trojan-trojan-42900475
+  - '🌐 Unknown #165'
+  - 1099-trojan-trojan-10217057
+  - 1100-trojan-trojan-42909382
+  - '🇯🇵 Japan #060'
+  - 1102-trojan-trojan-11952
+  - 1103-trojan-trojan-29250119
+  - 1104-trojan-trojan-33238129
+  type: select
+rules:
+- MATCH,select
